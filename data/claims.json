@@ -1,0 +1,118 @@
+{
+  "_meta": {
+    "说明": "标注集：每条是一个可直接判真伪的技术事实断言。truth_source 是可核验的官方出处。假断言由真断言改一个槽位得到（年份/月份），改法只有两种，避免主观。",
+    "版本": "v1 2026-10-30"
+  },
+  "claims": [
+    {
+      "id": "vue35",
+      "claim": "Vue 3.5 正式版于 2024 年 9 月发布",
+      "entity": "Vue 3.5",
+      "attr": "release date",
+      "value": "2024-09",
+      "label": true,
+      "official_site": "blog.vuejs.org",
+      "truth_source": "https://blog.vuejs.org/posts/vue-3-5"
+    },
+    {
+      "id": "vue35_false",
+      "claim": "Vue 3.5 正式版于 2023 年 11 月发布",
+      "entity": "Vue 3.5",
+      "attr": "release date",
+      "value": "2023-11",
+      "label": false,
+      "official_site": "blog.vuejs.org",
+      "truth_source": "https://blog.vuejs.org/posts/vue-3-5",
+      "真值": "2024-09",
+      "改法": "年份-1，月份+2"
+    },
+    {
+      "id": "py313",
+      "claim": "Python 3.13 正式版于 2024 年 10 月发布",
+      "entity": "Python 3.13",
+      "attr": "release date",
+      "value": "2024-10",
+      "label": true,
+      "official_site": "python.org",
+      "truth_source": "https://www.python.org/downloads/release/python-3130/"
+    },
+    {
+      "id": "py313_false",
+      "claim": "Python 3.13 正式版于 2024 年 6 月发布",
+      "entity": "Python 3.13",
+      "attr": "release date",
+      "value": "2024-06",
+      "label": false,
+      "official_site": "python.org",
+      "truth_source": "https://www.python.org/downloads/release/python-3130/",
+      "真值": "2024-10",
+      "改法": "月份-4"
+    },
+    {
+      "id": "node22",
+      "claim": "Node.js 22 正式版于 2024 年 4 月发布",
+      "entity": "Node.js 22",
+      "attr": "release date",
+      "value": "2024-04",
+      "label": true,
+      "official_site": "nodejs.org",
+      "truth_source": "https://nodejs.org/en/blog/announcements/v22-release-announce"
+    },
+    {
+      "id": "node22_false",
+      "claim": "Node.js 22 正式版于 2023 年 4 月发布",
+      "entity": "Node.js 22",
+      "attr": "release date",
+      "value": "2023-04",
+      "label": false,
+      "official_site": "nodejs.org",
+      "truth_source": "https://nodejs.org/en/blog/announcements/v22-release-announce",
+      "真值": "2024-04",
+      "改法": "年份-1"
+    },
+    {
+      "id": "dotnet9",
+      "claim": ".NET 9 于 2024 年 11 月正式发布",
+      "entity": ".NET 9",
+      "attr": "release date",
+      "value": "2024-11",
+      "label": true,
+      "official_site": "dotnet.microsoft.com",
+      "truth_source": "https://dotnet.microsoft.com/download/dotnet/9.0"
+    },
+    {
+      "id": "dotnet9_false",
+      "claim": ".NET 9 于 2025 年 3 月正式发布",
+      "entity": ".NET 9",
+      "attr": "release date",
+      "value": "2025-03",
+      "label": false,
+      "official_site": "dotnet.microsoft.com",
+      "truth_source": "https://dotnet.microsoft.com/download/dotnet/9.0",
+      "真值": "2024-11",
+      "改法": "年份+1，月份+4"
+    },
+    {
+      "id": "ts56",
+      "claim": "TypeScript 5.6 于 2024 年 9 月发布",
+      "entity": "TypeScript 5.6",
+      "attr": "release date",
+      "value": "2024-09",
+      "label": true,
+      "official_site": "devblogs.microsoft.com",
+      "truth_source": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/"
+    },
+    {
+      "id": "ts56_false",
+      "claim": "TypeScript 5.6 于 2025 年 1 月发布",
+      "entity": "TypeScript 5.6",
+      "attr": "release date",
+      "value": "2025-01",
+      "label": false,
+      "official_site": "devblogs.microsoft.com",
+      "truth_source": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/",
+      "真值": "2024-09",
+      "改法": "年份+1，月份+4"
+    }
+  ]
+}

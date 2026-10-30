@@ -1,0 +1,25 @@
+﻿id,gold,value,A_query,A_verdict,A_ok,A_n,A_ms,B_query,B_verdict,B_ok,B_n,B_ms
+vue35,真,2024-09,Vue 3.5 于 2024 年 9 月正式发布,真,1,10,191,Vue 3.5 released,真,1,10,160
+vue35_fake,假,2025-04,Vue 3.5 于 2025 年 4 月正式发布,真,0,10,174,Vue 3.5 released,假,1,10,176
+vue34,真,2023-12,Vue 3.4 于 2023 年 12 月正式发布,假,0,10,154,Vue 3.4 released,真,1,10,137
+vue34_fake,假,2024-07,Vue 3.4 于 2024 年 7 月正式发布,真,0,10,166,Vue 3.4 released,假,1,10,155
+vite6,真,2024-11,Vite 6.0 于 2024 年 11 月正式发布,真,1,10,206,Vite 6.0 released,真,1,10,145
+vite6_fake,假,2025-06,Vite 6.0 于 2025 年 6 月正式发布,真,0,10,143,Vite 6.0 released,假,1,10,164
+vite5,真,2023-11,Vite 5.0 于 2023 年 11 月正式发布,假,0,10,213,Vite 5.0 released,真,1,10,167
+vite5_fake,假,2024-06,Vite 5.0 于 2024 年 6 月正式发布,真,0,10,211,Vite 5.0 released,假,1,10,164
+ts56,真,2024-09,TypeScript 5.6 于 2024 年 9 月正式发布,真,1,10,187,TypeScript 5.6 released,真,1,10,182
+ts56_fake,假,2025-04,TypeScript 5.6 于 2025 年 4 月正式发布,假,1,10,192,TypeScript 5.6 released,假,1,10,166
+ts50,真,2023-03,TypeScript 5.0 于 2023 年 3 月正式发布,真,1,10,158,TypeScript 5.0 released,真,1,10,166
+ts50_fake,假,2023-10,TypeScript 5.0 于 2023 年 10 月正式发布,假,1,10,162,TypeScript 5.0 released,假,1,10,195
+angular18,真,2024-05,Angular 18 于 2024 年 5 月正式发布,假,0,10,163,Angular 18 released,真,1,10,211
+angular18_fake,假,2024-12,Angular 18 于 2024 年 12 月正式发布,假,1,10,182,Angular 18 released,假,1,10,161
+es815,真,2024-08,Elasticsearch 8.15 于 2024 年 8 月正式发布,真,1,10,169,Elasticsearch 8.15 released,无证据,0,10,167
+es815_fake,假,2025-03,Elasticsearch 8.15 于 2025 年 3 月正式发布,真,0,10,151,Elasticsearch 8.15 released,无证据,0,10,156
+react18,真,2022-03,React 18 于 2022 年 3 月正式发布,真,1,9,153,React 18 released,真,1,10,183
+react18_fake,假,2022-10,React 18 于 2022 年 10 月正式发布,假,1,9,297,React 18 released,假,1,10,296
+k8s131,真,2024-08,Kubernetes 1.31 于 2024 年 8 月正式发布,真,1,9,464,Kubernetes 1.31 released,无证据,0,10,638
+k8s131_fake,假,2025-03,Kubernetes 1.31 于 2025 年 3 月正式发布,真,0,10,250,Kubernetes 1.31 released,无证据,0,10,200
+redis8,真,2025-05,Redis 8 于 2025 年 5 月正式发布,假,0,10,209,Redis 8 released,真,1,10,222
+redis8_fake,假,2025-12,Redis 8 于 2025 年 12 月正式发布,假,1,10,230,Redis 8 released,假,1,10,207
+mysql84,真,2024-04,MySQL 8.4 于 2024 年 4 月正式发布,真,1,10,270,MySQL 8.4 released,无证据,0,10,382
+mysql84_fake,假,2024-11,MySQL 8.4 于 2024 年 11 月正式发布,真,0,10,309,MySQL 8.4 released,无证据,0,10,290

@@ -1,0 +1,62 @@
+[
+  {
+    "alt": "核验流水线",
+    "path": "配图/fig01_pipeline.png",
+    "fig": "1",
+    "url": "https://article-1308983626.cos.ap-shanghai.myqcloud.com/img/20261030145257444.png?imageSlim"
+  },
+  {
+    "alt": "三组数字类断言正确率",
+    "path": "配图/fig02_digit-accuracy.png",
+    "fig": "2",
+    "url": "https://article-1308983626.cos.ap-shanghai.myqcloud.com/img/20261030145257942.png?imageSlim"
+  },
+  {
+    "alt": "错误形态分布",
+    "path": "配图/fig03_error-taxonomy.png",
+    "fig": "3",
+    "url": "https://article-1308983626.cos.ap-shanghai.myqcloud.com/img/20261030145258374.png?imageSlim"
+  },
+  {
+    "alt": "npm view vue dist-tags",
+    "path": "配图/fig04_npm-dist-tags.png",
+    "fig": "4",
+    "url": "https://article-1308983626.cos.ap-shanghai.myqcloud.com/img/20261030145258798.png?imageSlim"
+  },
+  {
+    "alt": "Gemini 回答里 Vite 那一节",
+    "path": "配图/fig05_gemini-vite.png",
+    "fig": "5",
+    "url": "https://article-1308983626.cos.ap-shanghai.myqcloud.com/img/20261030145259148.png?imageSlim"
+  },
+  {
+    "alt": "三格 × 三类断言的对照矩阵",
+    "path": "配图/fig06_matrix.png",
+    "fig": "6",
+    "url": "https://article-1308983626.cos.ap-shanghai.myqcloud.com/img/20261030145259428.png?imageSlim"
+  },
+  {
+    "alt": "Site 限定的精度陷阱",
+    "path": "配图/fig07_site-precision.png",
+    "fig": "7",
+    "url": "https://article-1308983626.cos.ap-shanghai.myqcloud.com/img/20261030145259759.png?imageSlim"
+  },
+  {
+    "alt": "调用统计",
+    "path": "配图/fig08_call-stats.png",
+    "fig": "8",
+    "url": "https://article-1308983626.cos.ap-shanghai.myqcloud.com/img/20261030145300091.png?imageSlim"
+  },
+  {
+    "alt": "单条断言全链路",
+    "path": "配图/fig09_trace.png",
+    "fig": "9",
+    "url": "https://article-1308983626.cos.ap-shanghai.myqcloud.com/img/20261030145300373.png?imageSlim"
+  },
+  {
+    "alt": "A/B 对照四指标",
+    "path": "配图/fig10_ab-compare.png",
+    "fig": "10",
+    "url": "https://article-1308983626.cos.ap-shanghai.myqcloud.com/img/20261030145300698.png?imageSlim"
+  }
+]

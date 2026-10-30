@@ -1,0 +1,31 @@
+﻿id,label,strategy,query,site,n,ms,value_hit,truth_hit,n_official
+vue35,真,S1_原文,Vue 3.5 正式版于 2024 年 9 月发布,,10,604,1,1,0
+vue35,真,S2_三元组,Vue 3.5 release date,,10,168,1,1,0
+vue35,真,S3_三元组+官方源,Vue 3.5 release date,blog.vuejs.org,10,366,0,0,10
+vue35_false,假,S1_原文,Vue 3.5 正式版于 2023 年 11 月发布,,10,428,0,1,0
+vue35_false,假,S2_三元组,Vue 3.5 release date,,10,181,0,1,0
+vue35_false,假,S3_三元组+官方源,Vue 3.5 release date,blog.vuejs.org,10,166,0,0,10
+py313,真,S1_原文,Python 3.13 正式版于 2024 年 10 月发布,,10,591,1,1,4
+py313,真,S2_三元组,Python 3.13 release date,,10,310,1,1,8
+py313,真,S3_三元组+官方源,Python 3.13 release date,python.org,10,287,1,1,10
+py313_false,假,S1_原文,Python 3.13 正式版于 2024 年 6 月发布,,10,686,1,1,7
+py313_false,假,S2_三元组,Python 3.13 release date,,10,190,1,1,8
+py313_false,假,S3_三元组+官方源,Python 3.13 release date,python.org,10,176,0,1,10
+node22,真,S1_原文,Node.js 22 正式版于 2024 年 4 月发布,,10,687,1,1,7
+node22,真,S2_三元组,Node.js 22 release date,,10,522,1,1,8
+node22,真,S3_三元组+官方源,Node.js 22 release date,nodejs.org,10,474,1,1,10
+node22_false,假,S1_原文,Node.js 22 正式版于 2023 年 4 月发布,,10,665,1,1,6
+node22_false,假,S2_三元组,Node.js 22 release date,,10,221,1,1,8
+node22_false,假,S3_三元组+官方源,Node.js 22 release date,nodejs.org,10,1087,1,1,10
+dotnet9,真,S1_原文,.NET 9 于 2024 年 11 月正式发布,,10,850,1,1,5
+dotnet9,真,S2_三元组,.NET 9 release date,,10,1123,1,1,9
+dotnet9,真,S3_三元组+官方源,.NET 9 release date,dotnet.microsoft.com,10,527,1,1,10
+dotnet9_false,假,S1_原文,.NET 9 于 2025 年 3 月正式发布,,10,622,1,1,0
+dotnet9_false,假,S2_三元组,.NET 9 release date,,10,171,0,1,9
+dotnet9_false,假,S3_三元组+官方源,.NET 9 release date,dotnet.microsoft.com,10,178,0,1,10
+ts56,真,S1_原文,TypeScript 5.6 于 2024 年 9 月发布,,10,649,1,1,0
+ts56,真,S2_三元组,TypeScript 5.6 release date,,10,565,1,1,0
+ts56,真,S3_三元组+官方源,TypeScript 5.6 release date,devblogs.microsoft.com,10,497,0,0,10
+ts56_false,假,S1_原文,TypeScript 5.6 于 2025 年 1 月发布,,10,726,0,1,0
+ts56_false,假,S2_三元组,TypeScript 5.6 release date,,10,179,0,1,0
+ts56_false,假,S3_三元组+官方源,TypeScript 5.6 release date,devblogs.microsoft.com,10,212,0,0,10

@@ -1,0 +1,6 @@
+# 只读复核（scripts/reproduce.py）不需要任何第三方库；
+# 以下依赖用于「真实调用」与「重新生成图表」两档。
+requests>=2.31.0
+matplotlib>=3.8.0
+Pillow>=10.0.0
+markdown>=3.5.0

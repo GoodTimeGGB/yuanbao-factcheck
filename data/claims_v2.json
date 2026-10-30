@@ -1,0 +1,268 @@
+{
+  "claims": [
+    {
+      "id": "vue35",
+      "entity": "Vue 3.5",
+      "official_site": "blog.vuejs.org",
+      "claim": "Vue 3.5 于 2024 年 9 月正式发布",
+      "value": "2024-09",
+      "label": true,
+      "official_url": "https://blog.vuejs.org/posts/vue-3-5?source=post_page-----0911fcbf437a-----------------------------------------",
+      "official_title": "Announcing Vue 3.5"
+    },
+    {
+      "id": "vue35_fake",
+      "entity": "Vue 3.5",
+      "official_site": "blog.vuejs.org",
+      "claim": "Vue 3.5 于 2025 年 4 月正式发布",
+      "value": "2025-04",
+      "label": false,
+      "truth": "2024-09",
+      "official_url": "https://blog.vuejs.org/posts/vue-3-5?source=post_page-----0911fcbf437a-----------------------------------------",
+      "official_title": "Announcing Vue 3.5",
+      "改法": "月份 +7（跨年归一）"
+    },
+    {
+      "id": "vue34",
+      "entity": "Vue 3.4",
+      "official_site": "blog.vuejs.org",
+      "claim": "Vue 3.4 于 2023 年 12 月正式发布",
+      "value": "2023-12",
+      "label": true,
+      "official_url": "http://blog.vuejs.org/",
+      "official_title": "Announcing Vue 3.4"
+    },
+    {
+      "id": "vue34_fake",
+      "entity": "Vue 3.4",
+      "official_site": "blog.vuejs.org",
+      "claim": "Vue 3.4 于 2024 年 7 月正式发布",
+      "value": "2024-07",
+      "label": false,
+      "truth": "2023-12",
+      "official_url": "http://blog.vuejs.org/",
+      "official_title": "Announcing Vue 3.4",
+      "改法": "月份 +7（跨年归一）"
+    },
+    {
+      "id": "vite6",
+      "entity": "Vite 6.0",
+      "official_site": "vitejs.dev",
+      "claim": "Vite 6.0 于 2024 年 11 月正式发布",
+      "value": "2024-11",
+      "label": true,
+      "official_url": "https://vitejs.dev/blog/announcing-vite6",
+      "official_title": "Vite 6.0 is out!"
+    },
+    {
+      "id": "vite6_fake",
+      "entity": "Vite 6.0",
+      "official_site": "vitejs.dev",
+      "claim": "Vite 6.0 于 2025 年 6 月正式发布",
+      "value": "2025-06",
+      "label": false,
+      "truth": "2024-11",
+      "official_url": "https://vitejs.dev/blog/announcing-vite6",
+      "official_title": "Vite 6.0 is out!",
+      "改法": "月份 +7（跨年归一）"
+    },
+    {
+      "id": "vite5",
+      "entity": "Vite 5.0",
+      "official_site": "vitejs.dev",
+      "claim": "Vite 5.0 于 2023 年 11 月正式发布",
+      "value": "2023-11",
+      "label": true,
+      "official_url": "https://vitejs.dev/blog/announcing-vite5-1",
+      "official_title": "Vite 5.0 is out!"
+    },
+    {
+      "id": "vite5_fake",
+      "entity": "Vite 5.0",
+      "official_site": "vitejs.dev",
+      "claim": "Vite 5.0 于 2024 年 6 月正式发布",
+      "value": "2024-06",
+      "label": false,
+      "truth": "2023-11",
+      "official_url": "https://vitejs.dev/blog/announcing-vite5-1",
+      "official_title": "Vite 5.0 is out!",
+      "改法": "月份 +7（跨年归一）"
+    },
+    {
+      "id": "ts56",
+      "entity": "TypeScript 5.6",
+      "official_site": "devblogs.microsoft.com",
+      "claim": "TypeScript 5.6 于 2024 年 9 月正式发布",
+      "value": "2024-09",
+      "label": true,
+      "official_url": "https://devblogs.microsoft.com/typescript/?p=4429",
+      "official_title": "Announcing TypeScript 5.6"
+    },
+    {
+      "id": "ts56_fake",
+      "entity": "TypeScript 5.6",
+      "official_site": "devblogs.microsoft.com",
+      "claim": "TypeScript 5.6 于 2025 年 4 月正式发布",
+      "value": "2025-04",
+      "label": false,
+      "truth": "2024-09",
+      "official_url": "https://devblogs.microsoft.com/typescript/?p=4429",
+      "official_title": "Announcing TypeScript 5.6",
+      "改法": "月份 +7（跨年归一）"
+    },
+    {
+      "id": "ts50",
+      "entity": "TypeScript 5.0",
+      "official_site": "devblogs.microsoft.com",
+      "claim": "TypeScript 5.0 于 2023 年 3 月正式发布",
+      "value": "2023-03",
+      "label": true,
+      "official_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-0",
+      "official_title": "Announcing TypeScript 5.0"
+    },
+    {
+      "id": "ts50_fake",
+      "entity": "TypeScript 5.0",
+      "official_site": "devblogs.microsoft.com",
+      "claim": "TypeScript 5.0 于 2023 年 10 月正式发布",
+      "value": "2023-10",
+      "label": false,
+      "truth": "2023-03",
+      "official_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-0",
+      "official_title": "Announcing TypeScript 5.0",
+      "改法": "月份 +7（跨年归一）"
+    },
+    {
+      "id": "angular18",
+      "entity": "Angular 18",
+      "official_site": "blog.angular.dev",
+      "claim": "Angular 18 于 2024 年 5 月正式发布",
+      "value": "2024-05",
+      "label": true,
+      "official_url": "https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe",
+      "official_title": "Angular v18 is now available!"
+    },
+    {
+      "id": "angular18_fake",
+      "entity": "Angular 18",
+      "official_site": "blog.angular.dev",
+      "claim": "Angular 18 于 2024 年 12 月正式发布",
+      "value": "2024-12",
+      "label": false,
+      "truth": "2024-05",
+      "official_url": "https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe",
+      "official_title": "Angular v18 is now available!",
+      "改法": "月份 +7（跨年归一）"
+    },
+    {
+      "id": "es815",
+      "entity": "Elasticsearch 8.15",
+      "official_site": "elastic.co",
+      "claim": "Elasticsearch 8.15 于 2024 年 8 月正式发布",
+      "value": "2024-08",
+      "label": true,
+      "official_url": "https://microsoft@elastic.co/blog/whats-new-elastic-8-15-0",
+      "official_title": "Elastic 8.15"
+    },
+    {
+      "id": "es815_fake",
+      "entity": "Elasticsearch 8.15",
+      "official_site": "elastic.co",
+      "claim": "Elasticsearch 8.15 于 2025 年 3 月正式发布",
+      "value": "2025-03",
+      "label": false,
+      "truth": "2024-08",
+      "official_url": "https://microsoft@elastic.co/blog/whats-new-elastic-8-15-0",
+      "official_title": "Elastic 8.15",
+      "改法": "月份 +7（跨年归一）"
+    },
+    {
+      "id": "react18",
+      "entity": "React 18",
+      "official_site": "react.dev",
+      "claim": "React 18 于 2022 年 3 月正式发布",
+      "value": "2022-03",
+      "label": true,
+      "official_url": "https://react.dev/versions",
+      "official_title": "React v18.0"
+    },
+    {
+      "id": "react18_fake",
+      "entity": "React 18",
+      "official_site": "react.dev",
+      "claim": "React 18 于 2022 年 10 月正式发布",
+      "value": "2022-10",
+      "label": false,
+      "truth": "2022-03",
+      "official_url": "https://react.dev/versions",
+      "official_title": "React v18.0",
+      "改法": "月份 +7（跨年归一）"
+    },
+    {
+      "id": "k8s131",
+      "entity": "Kubernetes 1.31",
+      "official_site": "kubernetes.io",
+      "claim": "Kubernetes 1.31 于 2024 年 8 月正式发布",
+      "value": "2024-08",
+      "label": true,
+      "official_url": "https://kubernetes.io/es/releases/1.31",
+      "official_title": "Kubernetes v1.31: Elli"
+    },
+    {
+      "id": "k8s131_fake",
+      "entity": "Kubernetes 1.31",
+      "official_site": "kubernetes.io",
+      "claim": "Kubernetes 1.31 于 2025 年 3 月正式发布",
+      "value": "2025-03",
+      "label": false,
+      "truth": "2024-08",
+      "official_url": "https://kubernetes.io/es/releases/1.31",
+      "official_title": "Kubernetes v1.31: Elli",
+      "改法": "月份 +7（跨年归一）"
+    },
+    {
+      "id": "redis8",
+      "entity": "Redis 8",
+      "official_site": "redis.io",
+      "claim": "Redis 8 于 2025 年 5 月正式发布",
+      "value": "2025-05",
+      "label": true,
+      "official_url": "https://redis.io/docs/staging/DOC-7111-rdi-terraform-dashboards/operate/rs/8.0/installing-upgrading/product-lifecycle/",
+      "official_title": "Redis 8 is now GA"
+    },
+    {
+      "id": "redis8_fake",
+      "entity": "Redis 8",
+      "official_site": "redis.io",
+      "claim": "Redis 8 于 2025 年 12 月正式发布",
+      "value": "2025-12",
+      "label": false,
+      "truth": "2025-05",
+      "official_url": "https://redis.io/docs/staging/DOC-7111-rdi-terraform-dashboards/operate/rs/8.0/installing-upgrading/product-lifecycle/",
+      "official_title": "Redis 8 is now GA",
+      "改法": "月份 +7（跨年归一）"
+    },
+    {
+      "id": "mysql84",
+      "entity": "MySQL 8.4",
+      "official_site": "dev.mysql.com",
+      "claim": "MySQL 8.4 于 2024 年 4 月正式发布",
+      "value": "2024-04",
+      "label": true,
+      "official_url": "https://dev.mysql.com/doc/refman/8.0/en/faqs-general.html",
+      "official_title": "MySQL 8.4 GA"
+    },
+    {
+      "id": "mysql84_fake",
+      "entity": "MySQL 8.4",
+      "official_site": "dev.mysql.com",
+      "claim": "MySQL 8.4 于 2024 年 11 月正式发布",
+      "value": "2024-11",
+      "label": false,
+      "truth": "2024-04",
+      "official_url": "https://dev.mysql.com/doc/refman/8.0/en/faqs-general.html",
+      "official_title": "MySQL 8.4 GA",
+      "改法": "月份 +7（跨年归一）"
+    }
+  ]
+}

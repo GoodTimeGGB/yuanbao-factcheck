@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "collected_at": "2026-10-30",
+    "task": "同一 prompt、同一时点，让两个模型各写一篇《2026 前端版本盘点》，核验其中可证伪的断言",
+    "prompt_note": "prompt 明确要求『不要写免责声明，直接给结论』——这是大多数人的真实用法",
+    "deepseek_setup": "深度思考 ON，联网搜索 OFF",
+    "gemini_setup": "默认模式（自动，含检索），未找到关闭联网的开关",
+    "truth_source": "npm registry 的 dist-tags.latest + time 字段（发布方自己写入，可复核）；特性类断言用元宝搜索对官方源核验"
+  },
+  "claims": [
+    {
+      "id": "D1",
+      "model": "deepseek",
+      "tool": "Vue",
+      "type": "version",
+      "text": "Vue 当前最新版本是 3.6.3，发布于 2026 年 9 月",
+      "pkg": "vue",
+      "claimed_version": "3.6.3",
+      "claimed_ym": "2026-09"
+    },
+    {
+      "id": "D2",
+      "model": "deepseek",
+      "tool": "Vue",
+      "type": "major_date",
+      "text": "Vue 最近一次大版本仍是 3.0（2020 年 9 月）",
+      "pkg": "vue",
+      "claimed_major": 3,
+      "claimed_ym": "2020-09"
+    },
+    {
+      "id": "D3",
+      "model": "deepseek",
+      "tool": "Vue",
+      "type": "feature",
+      "text": "Vue 3.6 线把 Vapor Mode 推向稳定，模板可编译成更轻的运行时",
+      "pkg": "vue",
+      "query": "Vue 3.6 Vapor Mode stable release",
+      "site": "blog.vuejs.org"
+    },
+    {
+      "id": "D4",
+      "model": "deepseek",
+      "tool": "React",
+      "type": "version",
+      "text": "React 当前最新版本是 19.2.1，发布于 2026 年 3 月",
+      "pkg": "react",
+      "claimed_version": "19.2.1",
+      "claimed_ym": "2026-03"
+    },
+    {
+      "id": "D5",
+      "model": "deepseek",
+      "tool": "React",
+      "type": "major_date",
+      "text": "React 最近一次 major 是 React 19（2024 年 12 月）",
+      "pkg": "react",
+      "claimed_major": 19,
+      "claimed_ym": "2024-12"
+    },
+    {
+      "id": "D6",
+      "model": "deepseek",
+      "tool": "Vite",
+      "type": "version",
+      "text": "Vite 当前最新版本是 8.0.2，发布于 2026 年 7 月",
+      "pkg": "vite",
+      "claimed_version": "8.0.2",
+      "claimed_ym": "2026-07"
+    },
+    {
+      "id": "D7",
+      "model": "deepseek",
+      "tool": "Vite",
+      "type": "major_date",
+      "text": "Vite 最近一次 major 是 Vite 8（2026 年 6 月）",
+      "pkg": "vite",
+      "claimed_major": 8,
+      "claimed_ym": "2026-06"
+    },
+    {
+      "id": "D8",
+      "model": "deepseek",
+      "tool": "Vite",
+      "type": "feature",
+      "text": "Rolldown 成为 Vite 默认打包内核，开发和生产构建链路更统一",
+      "pkg": "vite",
+      "query": "Vite 8 Rolldown default bundler",
+      "site": "vite.dev"
+    },
+    {
+      "id": "D9",
+      "model": "deepseek",
+      "tool": "TypeScript",
+      "type": "version",
+      "text": "TypeScript 当前最新版本是 6.0.3，发布于 2026 年 5 月",
+      "pkg": "typescript",
+      "claimed_version": "6.0.3",
+      "claimed_ym": "2026-05"
+    },
+    {
+      "id": "D10",
+      "model": "deepseek",
+      "tool": "TypeScript",
+      "type": "major_date",
+      "text": "TypeScript 最近一次 major 是 6.0（2025 年 12 月）",
+      "pkg": "typescript",
+      "claimed_major": 6,
+      "claimed_ym": "2025-12"
+    },
+    {
+      "id": "D11",
+      "model": "deepseek",
+      "tool": "Next.js",
+      "type": "version",
+      "text": "Next.js 当前最新版本是 16.1.2，发布于 2026 年 8 月",
+      "pkg": "next",
+      "claimed_version": "16.1.2",
+      "claimed_ym": "2026-08"
+    },
+    {
+      "id": "D12",
+      "model": "deepseek",
+      "tool": "Next.js",
+      "type": "major_date",
+      "text": "Next.js 最近一次 major 是 16（2025 年 10 月）",
+      "pkg": "next",
+      "claimed_major": 16,
+      "claimed_ym": "2025-10"
+    },
+    {
+      "id": "D13",
+      "model": "deepseek",
+      "tool": "Next.js",
+      "type": "feature",
+      "text": "Turbopack 成为 Next.js 默认构建工具，Cache Components 让缓存更显式",
+      "pkg": "next",
+      "query": "Next.js 16 Turbopack default Cache Components",
+      "site": "nextjs.org"
+    },
+    {
+      "id": "D14",
+      "model": "deepseek",
+      "tool": "Tailwind",
+      "type": "version",
+      "text": "Tailwind CSS 当前最新版本是 4.2.0，发布于 2026 年 6 月",
+      "pkg": "tailwindcss",
+      "claimed_version": "4.2.0",
+      "claimed_ym": "2026-06"
+    },
+    {
+      "id": "D15",
+      "model": "deepseek",
+      "tool": "Tailwind",
+      "type": "major_date",
+      "text": "Tailwind 最近一次 major 是 v4（2025 年 1 月）",
+      "pkg": "tailwindcss",
+      "claimed_major": 4,
+      "claimed_ym": "2025-01"
+    },
+    {
+      "id": "D16",
+      "model": "deepseek",
+      "tool": "Tailwind",
+      "type": "feature",
+      "text": "Tailwind v4 用 @theme 和 CSS 变量替代 JS config，Oxide 引擎提升构建速度",
+      "pkg": "tailwindcss",
+      "query": "Tailwind CSS v4 @theme Oxide engine",
+      "site": "tailwindcss.com"
+    },
+    {
+      "id": "G1",
+      "model": "gemini",
+      "tool": "Vue",
+      "type": "version",
+      "text": "Vue 当前最新版本 v3.5.44",
+      "pkg": "vue",
+      "claimed_version": "3.5.44",
+      "claimed_ym": null
+    },
+    {
+      "id": "G2",
+      "model": "gemini",
+      "tool": "Vue",
+      "type": "major_date",
+      "text": "Vue 最近一次大版本发布 2024 年 9 月（Vue 3.5）",
+      "pkg": "vue",
+      "claimed_version_for_date": "3.5.0",
+      "claimed_ym": "2024-09"
+    },
+    {
+      "id": "G3",
+      "model": "gemini",
+      "tool": "Vue",
+      "type": "feature",
+      "text": "Vue 3.5 响应式系统重构，内存占用降低近一半，支持 Props 解构与 useTemplateRef",
+      "pkg": "vue",
+      "query": "Vue 3.5 memory usage reduction props destructure useTemplateRef",
+      "site": "blog.vuejs.org"
+    },
+    {
+      "id": "G4",
+      "model": "gemini",
+      "tool": "React",
+      "type": "version",
+      "text": "React 当前最新版本 v19.3",
+      "pkg": "react",
+      "claimed_version": "19.3",
+      "claimed_ym": null
+    },
+    {
+      "id": "G5",
+      "model": "gemini",
+      "tool": "React",
+      "type": "major_date",
+      "text": "React 19 正式版 2024 年 12 月",
+      "pkg": "react",
+      "claimed_major": 19,
+      "claimed_ym": "2024-12"
+    },
+    {
+      "id": "G6",
+      "model": "gemini",
+      "tool": "React",
+      "type": "feature",
+      "text": "React 19.3 中 View Transitions 与 Fragment Refs 已正式稳定",
+      "pkg": "react",
+      "query": "React 19.3 View Transitions Fragment Refs stable release",
+      "site": "react.dev"
+    },
+    {
+      "id": "G7",
+      "model": "gemini",
+      "tool": "Vite",
+      "type": "version",
+      "text": "Vite 当前最新版本 v8.x",
+      "pkg": "vite",
+      "claimed_version": "8.x",
+      "claimed_ym": null
+    },
+    {
+      "id": "G8",
+      "model": "gemini",
+      "tool": "Vite",
+      "type": "major_date",
+      "text": "Vite 8 于 2026 年 3 月发布",
+      "pkg": "vite",
+      "claimed_major": 8,
+      "claimed_ym": "2026-03"
+    },
+    {
+      "id": "G9",
+      "model": "gemini",
+      "tool": "Vite",
+      "type": "feature",
+      "text": "Vite 8 继续巩固『开发用 esbuild、生产用 Rollup』的路线",
+      "pkg": "vite",
+      "query": "Vite 8 release Rollup esbuild replaced Rolldown",
+      "site": "vite.dev"
+    },
+    {
+      "id": "G10",
+      "model": "gemini",
+      "tool": "TypeScript",
+      "type": "version",
+      "text": "TypeScript 当前最新版本 v7.0.2",
+      "pkg": "typescript",
+      "claimed_version": "7.0.2",
+      "claimed_ym": null
+    },
+    {
+      "id": "G11",
+      "model": "gemini",
+      "tool": "TypeScript",
+      "type": "major_date",
+      "text": "TypeScript 7.0 于 2026 年 10 月发布",
+      "pkg": "typescript",
+      "claimed_major": 7,
+      "claimed_ym": "2026-10"
+    },
+    {
+      "id": "G12",
+      "model": "gemini",
+      "tool": "TypeScript",
+      "type": "feature",
+      "text": "TypeScript 7 用 Project Corsa 重构编译器底层，运行速度与内存开销显著改善",
+      "pkg": "typescript",
+      "query": "TypeScript 7 native compiler Project Corsa Go port",
+      "site": "devblogs.microsoft.com"
+    },
+    {
+      "id": "G13",
+      "model": "gemini",
+      "tool": "Next.js",
+      "type": "version",
+      "text": "Next.js 当前最新版本 v16.4.3",
+      "pkg": "next",
+      "claimed_version": "16.4.3",
+      "claimed_ym": null
+    },
+    {
+      "id": "G14",
+      "model": "gemini",
+      "tool": "Next.js",
+      "type": "major_date",
+      "text": "Next.js 16 于 2025 年 10 月发布",
+      "pkg": "next",
+      "claimed_major": 16,
+      "claimed_ym": "2025-10"
+    },
+    {
+      "id": "G15",
+      "model": "gemini",
+      "tool": "Tailwind",
+      "type": "version",
+      "text": "Tailwind CSS 当前最新版本 v4.x",
+      "pkg": "tailwindcss",
+      "claimed_version": "4.x",
+      "claimed_ym": null
+    },
+    {
+      "id": "G16",
+      "model": "gemini",
+      "tool": "Tailwind",
+      "type": "major_date",
+      "text": "Tailwind CSS v4 于 2025 年初发布",
+      "pkg": "tailwindcss",
+      "claimed_major": 4,
+      "claimed_ym": "2025-01"
+    }
+  ]
+}

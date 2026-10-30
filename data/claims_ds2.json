@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "collected_at": "2026-10-30",
+    "model": "deepseek_search",
+    "setup": "深度思考 ON，联网搜索 ON，同一份 prompt",
+    "file": "data/drafts/deepseek-search.md",
+    "note": "第一版 DeepSeek（检索关）与 Gemini（检索开）的判定见 data/draft_verdicts.json"
+  },
+  "claims": [
+    {
+      "id": "S1",
+      "tool": "Vue",
+      "type": "version",
+      "text": "当前最新稳定版是 3.6.x，2026 年 7 月中旬正式发布",
+      "pkg": "vue",
+      "claimed_version": "3.6.x"
+    },
+    {
+      "id": "S2",
+      "tool": "Vue",
+      "type": "major_date",
+      "text": "最近一次 major 名义上仍是 3.0（2020 年）",
+      "truth_version": "3.0.0",
+      "claimed_ym": "2020-09",
+      "pkg": "vue"
+    },
+    {
+      "id": "S3",
+      "tool": "React",
+      "type": "version",
+      "text": "当前最新版本是 19.3.x，2026 年 9 月 9 日发布",
+      "pkg": "react",
+      "claimed_version": "19.3.x",
+      "claimed_ym": "2026-09"
+    },
+    {
+      "id": "S4",
+      "tool": "React",
+      "type": "major_date",
+      "text": "最近一次 major 是 19.0（2024 年 12 月）",
+      "truth_version": "19.0.0",
+      "claimed_ym": "2024-12",
+      "pkg": "react"
+    },
+    {
+      "id": "S5",
+      "tool": "Vite",
+      "type": "version",
+      "text": "当前最新版本是 8.1.x",
+      "pkg": "vite",
+      "claimed_version": "8.1.x"
+    },
+    {
+      "id": "S6",
+      "tool": "Vite",
+      "type": "major_date",
+      "text": "8.0 正式版发布于 2026 年 3 月 12 日",
+      "truth_version": "8.0.0",
+      "claimed_ym": "2026-03",
+      "pkg": "vite"
+    },
+    {
+      "id": "S7",
+      "tool": "TypeScript",
+      "type": "version",
+      "text": "当前最新版本是 7.0.x，2026 年 7 月 8 日发布",
+      "pkg": "typescript",
+      "claimed_version": "7.0.x",
+      "claimed_ym": "2026-07"
+    },
+    {
+      "id": "S8",
+      "tool": "TypeScript",
+      "type": "major_date",
+      "text": "中间的 6.0（2026 年 3 月）是过渡版本",
+      "truth_version": "6.0.2",
+      "claimed_ym": "2026-03",
+      "pkg": "typescript"
+    },
+    {
+      "id": "S9",
+      "tool": "Next.js",
+      "type": "version",
+      "text": "当前最新版本是 16.4.x，2026 年 10 月 6 日发布",
+      "pkg": "next",
+      "claimed_version": "16.4.x",
+      "claimed_ym": "2026-10"
+    },
+    {
+      "id": "S10",
+      "tool": "Next.js",
+      "type": "major_date",
+      "text": "最近一次 major 是 16.0，发布于 2025 年 11 月",
+      "truth_version": "16.0.0",
+      "claimed_ym": "2025-11",
+      "pkg": "next"
+    },
+    {
+      "id": "S11",
+      "tool": "Tailwind",
+      "type": "version",
+      "text": "当前最新版本是 4.3.x，2026 年 5 月 8 日发布",
+      "pkg": "tailwindcss",
+      "claimed_version": "4.3.x",
+      "claimed_ym": "2026-05"
+    },
+    {
+      "id": "S12",
+      "tool": "Tailwind",
+      "type": "major_date",
+      "text": "最近一次 major 是 4.0，发布于 2025 年 1 月",
+      "truth_version": "4.0.0",
+      "claimed_ym": "2025-01",
+      "pkg": "tailwindcss"
+    },
+    {
+      "id": "S13",
+      "tool": "Vue",
+      "type": "feature",
+      "text": "Vapor 组件运行时体积约 4kB gzip，默认虚拟 DOM 模式约 22kB",
+      "verdict": "无证据",
+      "note": "3.6 未正式发布，官方无公告页可核；检索 10 条全为 2021–2023 旧文"
+    },
+    {
+      "id": "S14",
+      "tool": "React",
+      "type": "feature",
+      "text": "View Transitions 与 Fragment Refs 从实验 API 转为稳定",
+      "verdict": "真",
+      "note": "官方《React 19.3》2026-09-09 原文 confirmed"
+    },
+    {
+      "id": "S15",
+      "tool": "Vite",
+      "type": "feature",
+      "text": "Rolldown 取代 esbuild + Rollup，构建提速 10–30 倍",
+      "verdict": "真",
+      "note": "官方原文 up to 10-30x faster builds，且明确“single, unified, Rust-based bundler”"
+    },
+    {
+      "id": "S16",
+      "tool": "TypeScript",
+      "type": "feature",
+      "text": "Go 重写，完整构建提速 8–12 倍；VS Code 125.7s→10.6s，Sentry 139.8s→15.7s",
+      "verdict": "真",
+      "note": "官方表格逐项吻合：8x-12x / 125.7→10.6 / 139.8→15.7"
+    },
+    {
+      "id": "S17",
+      "tool": "Next.js",
+      "type": "feature",
+      "text": "16.3 把 Turbopack 开发服务器内存最高降低 90%，并引入 Instant Navigations",
+      "verdict": "真",
+      "note": "官方《Next.js 16.3》2026-08-03：“Up to 90% less memory in dev” + Instant Navigations"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "Response": {
+    "RequestId": "8ec774df-ab47-4e3b-baa9-8331e4da6eab",
+    "Query": "特斯拉股价",
+    "Pages": [
+      "{\"vr\":true,\"vr_category\":\"stock\",\"vrid\":\"70280301\",\"title\":\"特斯拉_TSLA_us\",\"url\":\"https://wzq.tenpay.com/mm/detail?scode=TSLA.OQ&type=3\",\"site\":\"腾讯自选股\",\"passage\":\"# 股票：特斯拉_TSLA_us\\n# 详情页地址：https://wzq.tenpay.com/mm/detail?scode=TSLA.OQ&type=3\\n# 股票名称：特斯拉\\n# 股票代码：TSLA\\n# 美股股票代码：TSLA\\n# 股票代码前缀：us\\n# 股票类型：美股\\n# 实时股价：403.30\\n# 涨跌额：-0.92\\n# 涨跌幅：-0.23\\n# 交易状态：已收盘\\n# 更新时间：2026-10-29 16:00:00\\n# 今日开盘价：405.63\\n# 昨日收盘价：404.22\\n# 今日最高价：406.98\\n# 今日最低价：400.50\\n# 成交量：22858268\\n# 市盈率TTM：443.19\\n# 总市值：15941.36071...\",\"date\":\"2026-10-30 10:57:21\",\"favicon\":\"\"}"
+    ],
+    "Version": "standard"
+  }
+}

@@ -1,0 +1,47 @@
+$ python scripts/trace_one.py
+  断言："Vue 当前最新版本是 3.6.3，发布于 2026 年 9 月"
+
+[1/4] 解析断言
+      主体 = Vue      属性 = 最新稳定版本      声明值 = 3.6.3
+      声称发布时间 = 2026-09        类型 = 数字类（可机器判定）
+
+[2/4] 构造 query（三元组，不是整句断言）
+      query = "Vue 3.6 released"    Site = blog.vuejs.org    Mode = 0
+      调用 SearchPro ... 返回 10 条，耗时 1140 ms，HTTP OK
+
+      返回结果（真实原文，未改写）：
+       1. The Vue Point ｜ blog.vuejs.org ｜ 无日期
+       2. Vue 3 as the New Default ｜ blog.vuejs.org ｜ 2022/01/20
+       3. 2022 Year In Review ｜ blog.vuejs.org ｜ 2023/01/01
+       4. Announcing Vue 3.5 ｜ blog.vuejs.org ｜ 2024/09/01
+       5. Vue 2 is Approaching End Of Life ｜ blog.vuejs.org ｜ 2023/12/15
+       6. Announcing Vue 3.3 ｜ blog.vuejs.org ｜ 2023/05/11
+       7. Announcing Vue 3.0 "One Piece" ｜ blog.vuejs.org ｜ 2020/09/18
+       8. Vue 3.2 Released! ｜ blog.vuejs.org ｜ 2021/08/05
+       9. Vue 2.7 "Naruto" Released ｜ blog.vuejs.org ｜ 2022/07/01
+      10. Reflections for 2020-2021 ｜ blog.vuejs.org ｜ 2021/01/11
+
+[3/4] 三步对齐
+      主体对齐：10/10 命中（标题或摘要出现 Vue）
+      属性对齐：7/10 命中（出现 announced / released / GA 动词）
+      同时满足：7 条 —— 全部"像"真的：
+        · The Vue Point                      -
+        · Announcing Vue 3.5                 2024/09/01
+        · Vue 2 is Approaching End Of Life   2023/12/15
+        · Announcing Vue 3.3                 2023/05/11
+        · Announcing Vue 3.0 "One Piece"     2020/09/18
+        · Vue 3.2 Released!                  2021/08/05
+        · Vue 2.7 "Naruto" Released          2022/07/01
+
+[4/4] 三态裁决
+      时间对齐：上述 7 条里，声称 2026-09 的命中 0 条
+        ↑ 主体和属性都过，但没有一条提到 3.6，最新一条是 2024-09 的 Vue 3.5
+          这正是「域名对、标题像」最容易骗过人的地方
+      回到 registry 核真值：
+        dist-tags.latest = 3.5.44（2026-10-13）—— 3.6 至今没有正式版
+        3.6.0-rc.1 = 2026-07-18，此后 13 个 rc，最新 rc.13 = 2026-10-23
+
+      >>> 裁决：假（预发布当正式版）
+      >>> 证据不足的断言不判真，进人工复核队列
+
+日志已写入 data/calls.jsonl（tag=trace_one）

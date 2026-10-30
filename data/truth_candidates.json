@@ -1,0 +1,872 @@
+[
+  {
+    "id": "vue35",
+    "entity": "Vue 3.5",
+    "cn": "Vue 3.5",
+    "site": "blog.vuejs.org",
+    "query": "Vue 3.5 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Announcing Vue 3.5",
+        "date": "2024/09/01 00:00:00",
+        "url": "https://blog.vuejs.org/posts/vue-3-5?source=post_page-----0911fcbf437a-----------------------------------------",
+        "passage": "Announcing Vue 3.5 Vue.js 博客。Announcing Vue 3.5 Name Twitter Today we are excited to announce the release of Vue 3.5 \"Tengen Toppa Gurren Lagann\"! This minor release contains no breaking changes and includes both internal improvements and useful new features. "
+      },
+      {
+        "title": "The Vue Point",
+        "date": "",
+        "url": "http://blog.vuejs.org/",
+        "passage": "The Vue Point。The Vue Point Updates, tips & opinions from the maintainers of Vue.js. Published on September 1, 2024 Announcing Vue 3.5 Today we are excited to announce the release of Vue 3.5 \"Tengen Toppa Gurren Lagann\"! This minor release contains no breaking"
+      },
+      {
+        "title": "2022 Year In Review",
+        "date": "2023/01/01 00:00:00",
+        "url": "https://blog.vuejs.org/posts/2022-year-in-review",
+        "passage": "2022 Year In Review Vue.js 博客。Happy new year, Vue community! With 2023 upon us, we would like to take this opportunity to recap what happened in 2022, and discuss what to expect in 2023. Recap for 2022 ​ In February 2022, we switched Vue's default version to 3"
+      }
+    ]
+  },
+  {
+    "id": "vue34",
+    "entity": "Vue 3.4",
+    "cn": "Vue 3.4",
+    "site": "blog.vuejs.org",
+    "query": "Vue 3.4 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "The Vue Point",
+        "date": "",
+        "url": "http://blog.vuejs.org/",
+        "passage": "The Vue Point。The Vue Point Updates, tips & opinions from the maintainers of Vue.js. Published on September 1, 2024 Announcing Vue 3.5 Today we are excited to announce the release of Vue 3.5 \"Tengen Toppa Gurren Lagann\"! This minor release contains no breaking"
+      },
+      {
+        "title": "Announcing Vue 3.4",
+        "date": "2023/12/28 00:00:00",
+        "url": "https://blog.vuejs.org/posts/vue-3-4?source=post_page-----db21308c75da-----------------------------------------",
+        "passage": "Announcing Vue 3.4 Vue.js 博客。Announcing Vue 3.4 Name Twitter @youyuxi Today we're excited to announce the release of Vue 3.4 \"🏀 Slam Dunk\"! This release includes some substantial internal improvements - most notably a rewritten template parser that is 2x faste"
+      },
+      {
+        "title": "2022 Year In Review",
+        "date": "2023/01/01 00:00:00",
+        "url": "https://blog.vuejs.org/posts/2022-year-in-review",
+        "passage": "2022 Year In Review Vue.js 博客。Happy new year, Vue community! With 2023 upon us, we would like to take this opportunity to recap what happened in 2022, and discuss what to expect in 2023. Recap for 2022 ​ In February 2022, we switched Vue's default version to 3"
+      }
+    ]
+  },
+  {
+    "id": "react19",
+    "entity": "React 19",
+    "cn": "React 19",
+    "site": "react.dev",
+    "query": "React 19 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "React Versions",
+        "date": "",
+        "url": "https://react.dev/versions",
+        "passage": "React Versions React。React Versions The React docs at react.dev provide documentation for the latest version of React. We aim to keep the docs updated within major versions, and do not publish versions for each minor or patch version. When a new major is relea"
+      },
+      {
+        "title": "React 19.3 – React",
+        "date": "",
+        "url": "https://react.dev/blog/2026/09/09/react-19-3?ref=aayushbharti.in",
+        "passage": "React 19.3 – React React。React 19.3 September 9, 2026 by The React Team React 19.3 is now available on npm! Last year, we shared View Transitions and Fragment Refs as new experimental APIs coming to React. We’re excited to announce that both of these are now s"
+      },
+      {
+        "title": "React Blog – React",
+        "date": "",
+        "url": "https://react.dev/blog",
+        "passage": "React Blog – React React。React Blog This blog is the official source for the updates from the React team. Anything important, including release notes or deprecation notices, will be posted here first. You can also follow the @react.dev account on Bluesky, or @"
+      }
+    ]
+  },
+  {
+    "id": "react18",
+    "entity": "React 18",
+    "cn": "React 18",
+    "site": "react.dev",
+    "query": "React 18 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "React Versions",
+        "date": "",
+        "url": "https://react.dev/versions",
+        "passage": "React Versions React。React Versions The React docs at react.dev provide documentation for the latest version of React. We aim to keep the docs updated within major versions, and do not publish versions for each minor or patch version. When a new major is relea"
+      },
+      {
+        "title": "React Blog",
+        "date": "",
+        "url": "https://react.dev/blog/",
+        "passage": "React Blog React。 We are introducing a new officially supported Canary release channel. It lets curated setups like frameworks decouple adoption of individual React features from the React release schedule. Read more React Labs: What We've Been Working On – Ma"
+      },
+      {
+        "title": "React Blog",
+        "date": "",
+        "url": "https://react.dev/blog",
+        "passage": "React Blog React。 Read more React Canaries: Incremental Feature Rollout Outside Meta May 3, 2023 Traditionally, new React features used to only be available at Meta first, and land in the open source releases later. We’d like to offer the React community an op"
+      }
+    ]
+  },
+  {
+    "id": "vite6",
+    "entity": "Vite 6",
+    "cn": "Vite 6",
+    "site": "vitejs.dev",
+    "query": "Vite 6 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Vite 6.0 is out!",
+        "date": "2024/11/26 00:00:00",
+        "url": "https://vitejs.dev/blog/announcing-vite6",
+        "passage": "Vite 6.0 is out! Vite。Vite 6.0 is out! ​ Today, we're taking another big step in Vite's story. The Vite team, contributors, and ecosystem partners are excited to announce the release of Vite 6. It has been an eventful year. Vite adoption keeps growing, with np"
+      },
+      {
+        "title": "Environment API",
+        "date": "",
+        "url": "https://vitejs.dev/guide/api-environment",
+        "passage": "Environment API Vite。Environment API ​ Release Candidate The Environment API is generally in the release candidate phase. We'll maintain stability in the APIs between major releases to allow the ecosystem to experiment and build upon them. However, note that s"
+      },
+      {
+        "title": "Getting Started",
+        "date": "",
+        "url": "https://vitejs.dev/guide/index.html",
+        "passage": "Getting Started Vite。Getting Started ​ Overview ​ Vite (French word for \"quick\", pronounced /viːt/, like \"veet\") is a build tool that aims to provide a faster and leaner development experience for modern web projects. It consists of two major parts: A dev serv"
+      }
+    ]
+  },
+  {
+    "id": "vite5",
+    "entity": "Vite 5",
+    "cn": "Vite 5",
+    "site": "vitejs.dev",
+    "query": "Vite 5 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Vite 5.1 is out!",
+        "date": "2024/02/08 00:00:00",
+        "url": "https://vitejs.dev/blog/announcing-vite5-1",
+        "passage": "Vite 5.1 is out! Vite。Vite 5.1 is out! ​ Vite 5 was released last November, and it represented another big leap for Vite and the ecosystem. A few weeks ago we celebrated 10 million weekly npm downloads and 900 contributors to the Vite repo. Today, we're excite"
+      },
+      {
+        "title": "Vite 5.1 is out!",
+        "date": "2024/02/08 00:00:00",
+        "url": "https://vitejs.dev/blog/announcing-vite5-1?utm_source=fullstackbulletin.com&utm_medium=newsletter&utm_campaign=fullstackBulletin-360&utm_content=title",
+        "passage": "Vite 5.1 is out! Vite。Vite 5.1 is out! ​ Vite 5 was released last November, and it represented another big leap for Vite and the ecosystem. A few weeks ago we celebrated 10 million weekly npm downloads and 900 contributors to the Vite repo. Today, we're excite"
+      },
+      {
+        "title": "Vite 5.0 is out!",
+        "date": "2023/11/16 00:00:00",
+        "url": "https://vitejs.dev/blog/announcing-vite5?ref=www.javascriptjam.com",
+        "passage": "Vite 5.0 is out! Vite。Vite 4 was released almost a year ago, and it served as a solid base for the ecosystem. npm downloads per week jumped from 2.5 million to 7.5 million, as projects keep building on a shared infrastructure. Frameworks continued to innovate,"
+      }
+    ]
+  },
+  {
+    "id": "ts56",
+    "entity": "TypeScript 5.6",
+    "cn": "TypeScript 5.6",
+    "site": "devblogs.microsoft.com",
+    "query": "TypeScript 5.6 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Announcing TypeScript 5.6 - TypeScript",
+        "date": "2024/09/09 00:00:00",
+        "url": "https://devblogs.microsoft.com/typescript/?p=4429",
+        "passage": "Announcing TypeScript 5.6 - TypeScript 微软开发者博客。Announcing TypeScript 5.6 Daniel Rosenwasser Principal Product Manager Today we’re excited to announce the release of TypeScript 5.6! If you’re not familiar with TypeScript, it’s a language that builds on top of J"
+      },
+      {
+        "title": "Microsoft Developer Blogs",
+        "date": "2024/09/03 16:41:32",
+        "url": "https://devblogs.microsoft.com/?npe-page=14&contextid=122",
+        "passage": "Microsoft Developer Blogs。Microsoft Developer Blogs Get the latest information, insights, and news from Microsoft. Highlights Sep 19, 2024 Microsoft Developer Blogs Introducing the new Dev Blogs: A Modern, Streamlined, and Engaging Experience Hello, Dev Blogs "
+      },
+      {
+        "title": "Announcing TypeScript 5.6",
+        "date": "2024/09/09 00:00:00",
+        "url": "https://devblogs.microsoft.com/typescript/2024/09",
+        "passage": "Announcing TypeScript 5.6 微软开发者博客。Today we're excited to announce the release of TypeScript 5.6! If you're not familiar with TypeScript, it's a language that builds on top of JavaScript by adding syntax for types. Types describe the shapes we expect of our var"
+      }
+    ]
+  },
+  {
+    "id": "ts50",
+    "entity": "TypeScript 5.0",
+    "cn": "TypeScript 5.0",
+    "site": "devblogs.microsoft.com",
+    "query": "TypeScript 5.0 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Announcing TypeScript 5.0 - TypeScript",
+        "date": "2023/03/16 00:00:00",
+        "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-0",
+        "passage": "Announcing TypeScript 5.0 - TypeScript 微软开发者博客。Announcing TypeScript 5.0 Daniel Rosenwasser Today we’re excited to announce the release of TypeScript 5.0! This release brings many new features, while aiming to make TypeScript smaller, simpler, and faster. We’v"
+      },
+      {
+        "title": "TypeScript",
+        "date": "",
+        "url": "https://devblogs.microsoft.com/typescript/page/7",
+        "passage": "TypeScript Microsoft Dev Blogs。 Easier Implicit Returns for -Returning Functions In JavaScript, if a function finishes running without hitting a , it returns the value . However, in previous versions of TypeScript, the only functions that could have absolutely"
+      },
+      {
+        "title": "Showing archive results for 2023",
+        "date": "",
+        "url": "https://devblogs.microsoft.com/typescript/2023/page/2",
+        "passage": "Showing archive results for 2023 微软开发者博客。Showing archive results for 2023 Mar 16, 2023 Post comments count7 Post likes count38 Announcing TypeScript 5.0 Daniel Rosenwasser Today we're excited to announce the release of TypeScript 5.0! This release brings many "
+      }
+    ]
+  },
+  {
+    "id": "tw4",
+    "entity": "Tailwind CSS 4.0",
+    "cn": "Tailwind CSS 4.0",
+    "site": "tailwindcss.com",
+    "query": "Tailwind CSS 4.0 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Tailwind CSS Blog",
+        "date": "2026/09/09 13:48:19",
+        "url": "https://tailwindcss.com/feeds/atom.xml",
+        "passage": "Tailwind CSS Blog Tailwind CSS。v=3 All rights reserved 2026, Tailwind Labs Tailwind Labs is joining Shopify 2026-09-09T13:15:00.000Z Adam Wathan https://twitter.com/adamwathan Tailwind CSS v4.3: Scrollbars, new colors, and more 2026-05-08T20:00:00.000Z Adam Wa"
+      },
+      {
+        "title": "Compatibility",
+        "date": "",
+        "url": "https://tailwindcss.com/docs/compatibility",
+        "passage": "Compatibility Tailwind CSS。Compatibility Learn about browser support and compatibility with other tooling. Browser support Tailwind CSS v4.0 is designed for and tested on modern browsers, and the core functionality of the framework specifically depends on thes"
+      },
+      {
+        "title": "Blog - Tailwind CSS",
+        "date": "",
+        "url": "https://tailwindcss.com/blog?_rsc=1ld0r",
+        "passage": "Blog - Tailwind CSS Tailwind CSS。September 9, 2026 Big one today — Tailwind is joining Shopify. When I started working on Tailwind over nine years ago, my only goal was to create something that would make it easier to build beautiful interfaces for my own proj"
+      }
+    ]
+  },
+  {
+    "id": "next15",
+    "entity": "Next.js 15",
+    "cn": "Next.js 15",
+    "site": "nextjs.org",
+    "query": "Next.js 15 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Support Policy",
+        "date": "",
+        "url": "https://nextjs.org/support-policy",
+        "passage": "Support Policy Next.js。Support Policy Next.js publishes new versions to the canary channel daily. These pre-release builds undergo extensive internal testing before being promoted to a stable release. While we encourage you to experiment with the latest featur"
+      },
+      {
+        "title": "Next.js Support Policy  Next.js by Vercel - The React Framework",
+        "date": "",
+        "url": "https://nextjs.org/support-policy?utm_source=syedmoinuddin.com",
+        "passage": "Next.js Support Policy | Next.js by Vercel - The React Framework Next.js。Support Policy Next.js publishes new versions to the canary channel daily. These pre-release builds undergo extensive internal testing before being promoted to a stable release. While we "
+      },
+      {
+        "title": "Next.js 15",
+        "date": "",
+        "url": "https://nextjs.org/blog/next-15?utm_source=webdeveloper.beehiiv.com&utm_medium=referral&utm_campaign=next-js-15-how-databases-work-browser-data-storage-web-tools-collection",
+        "passage": "Next.js 15 Next.js。Monday, October 21st 2024 Next.js 15 Posted by Next.js 15 is officially stable and ready for production. This release builds on the updates from both RC1 and RC2. We've focused heavily on stability while adding some exciting updates we think"
+      }
+    ]
+  },
+  {
+    "id": "nuxt3",
+    "entity": "Nuxt 3",
+    "cn": "Nuxt 3",
+    "site": "nuxt.com",
+    "query": "Nuxt 3 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Nuxt 4.6 · Nuxt Blog",
+        "date": "2026/10/05 00:00:00",
+        "url": "https://nuxt.com/blog/v4-6",
+        "passage": "Nuxt 4.6 · Nuxt Blog Nuxt。 We believe that Nitro is still the right choice for almost everyone. We see a number of key benefits for nuxt/server: It smooths the upgrade to Nuxt 5, which moves to Nitro v3 and h3 v2. Server code written against nuxt/server on 4.6"
+      },
+      {
+        "title": "Announcing Nuxt 3 Release Candidate",
+        "date": "2022/04/12 00:00:00",
+        "url": "https://nuxt.com/blog/nuxt3-rc",
+        "passage": "Announcing Nuxt 3 Release Candidate Nuxt。Announcing Nuxt 3 Release Candidate Nuxt 3 beta was announced on October 12, 2021 after 16 months of work, introducing a new foundation based on Vue 3, Vite and Nitro. Six months later, we are happy to announce the firs"
+      },
+      {
+        "title": "Nuxt 4.5",
+        "date": "2026/07/18 00:00:00",
+        "url": "https://nuxt.com/blog/v4-5?utm_campaign=jem-web-in-july-javascript-every-month-newsletter-2119&utm_medium=email&utm_source=agney",
+        "passage": "Nuxt 4.5 Nuxt。Nuxt 4.5 Nuxt 4.5 is our biggest release in a while. Vite 8, Rspack 2 powered by Rsbuild, experimental SSR streaming, a stable error code system, a new useLayout composable, named views, and a lot of groundwork for Nuxt 5. Nuxt 4.5 is a big one. "
+      }
+    ]
+  },
+  {
+    "id": "angular18",
+    "entity": "Angular 18",
+    "cn": "Angular 18",
+    "site": "blog.angular.dev",
+    "query": "Angular 18 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Angular v18 is now available!",
+        "date": "2024/05/22 00:00:00",
+        "url": "https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe",
+        "passage": "Angular v18 is now available! Angular Blog。 Hydration support in CDK and Material In v17 some Angular Material and CDK components were opted-out of hydration, which caused their rerendering. Starting v18, all components and primitives are fully hydration compa"
+      },
+      {
+        "title": "Angular v17.2 is now available",
+        "date": "2024/02/15 00:00:00",
+        "url": "https://blog.angular.dev/angular-v17-2-is-now-available-596cbe96242d?gi=7abd56f62b71",
+        "passage": "Angular v17.2 is now available Angular Blog。 Along with all these features we have a few more surprises for you: Angular CLI now supports Bun’s package manager You can now control the Vite development server prebundling Support for custom postcss configuration"
+      },
+      {
+        "title": "Angular Blog",
+        "date": "",
+        "url": "https://blog.angular.dev/?source=post_page--------------------------------------------",
+        "passage": "Angular Blog。Seamless data fetching with httpResource Fantastic new APIs are coming to Angular. Two years ago, we proposed making Angular a reactive web framework powered by signals. Since… Mar 7 3 Mar 7 3 Angular Angular 19.2 Is Now Available And we’re back w"
+      }
+    ]
+  },
+  {
+    "id": "svelte5",
+    "entity": "Svelte 5",
+    "cn": "Svelte 5",
+    "site": "svelte.dev",
+    "query": "Svelte 5 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Svelte 5 is alive",
+        "date": "",
+        "url": "https://svelte.dev/blog/svelte-5-is-alive?trk=article-ssr-frontend-pulse_little-text-block",
+        "passage": "Svelte 5 is alive Svelte。Svelte 5 is alive Our biggest release yet The Svelte team Oct 22 2024 After almost 18 months of development, comprising thousands of commits from dozens of contributors, Svelte 5 is finally stable. It’s the most significant release in "
+      },
+      {
+        "title": "What’s new in Svelte: July 2024",
+        "date": "2024/07/01 00:00:00",
+        "url": "https://svelte.dev/blog/whats-new-in-svelte-july-2024",
+        "passage": "What’s new in Svelte: July 2024 Svelte。 What's new in Svelte Below, you'll find the highlights from the Svelte 5 release notes (now in Release Candidate): You can now declare props in runes mode more succinctly using let props = $props() (5.0.0-next.167, #1220"
+      },
+      {
+        "title": "What’s new in Svelte: August 2024",
+        "date": "2024/08/01 00:00:00",
+        "url": "https://svelte.dev/blog/whats-new-in-svelte-august-2024?utm_source=devfeed",
+        "passage": "What’s new in Svelte: August 2024 Svelte。What’s new in Svelte: August 2024 Significant hydration improvements, customizable warnings, and a new API: createRawSnippet The ramp up to the Svelte 5 release has led to a bunch of huge improvements to both performanc"
+      }
+    ]
+  },
+  {
+    "id": "node22",
+    "entity": "Node.js 22",
+    "cn": "Node.js 22",
+    "site": "nodejs.org",
+    "query": "Node.js 22 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Node.js — 在任何地方运行 JavaScript",
+        "date": "",
+        "url": "https://nodejs.org/zh-cn/download/archive/v22.22.0",
+        "passage": "Node.js — 在任何地方运行 JavaScript Node.js。Node.js® 历史版本下载 v22.22.0 (Jod) First released 2024年4月24日 Last updated 2026年10月20日 Minor versions 37 N-API version v127 npm version v10.9.4 V8 version v12.4.254.21 阅读该版本的 变更日志 或 博客。 了解关于 Node.js 版本 的更多信息,包括发版计划和LTS状态。 文件 签名S"
+      },
+      {
+        "title": "Node.js — Node.js Releases",
+        "date": "",
+        "url": "https://nodejs.org/zh-cn/about/previous-releases?noffollow",
+        "passage": "Node.js — Node.js Releases Node.js。 Node.js 代号 First released Last updated Status v26 - 2026年5月05日 2026年10月28日 LTS Details v25 - 2025年10月15日 2026年3月31日 EOL Details v24 Krypton 2025年5月06日 2026年10月27日 LTS Details v23 - 2024年10月16日 2025年5月14日 EOL Details v22 Jod "
+      },
+      {
+        "title": "Node.js — 在任何地方运行 JavaScript",
+        "date": "",
+        "url": "https://nodejs.org/zh-cn/download/archive/v22.19.0",
+        "passage": "Node.js — 在任何地方运行 JavaScript Node.js。Node.js® 历史版本下载 v22.19.0 (Jod) First released 2024年4月24日 Last updated 2026年10月20日 Minor versions 37 N-API version v127 npm version v10.9.3 V8 version v12.4.254.21 阅读该版本的 变更日志 或 博客。 了解关于 Node.js 版本 的更多信息,包括发版计划和LTS状态。 文件 签名S"
+      }
+    ]
+  },
+  {
+    "id": "node20",
+    "entity": "Node.js 20",
+    "cn": "Node.js 20",
+    "site": "nodejs.org",
+    "query": "Node.js 20 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Node.js — Run JavaScript Everywhere",
+        "date": "",
+        "url": "https://nodejs.org/ko/download/archive/v20.0.0",
+        "passage": "Node.js — Run JavaScript Everywhere Node.js。v20.0.0 (Iron) First released 2023년 4월 17일 Last updated 2026년 3월 24일 Minor versions 41 N-API version v115 npm version v9.6.4 V8 version v11.3.244.4 Read the changelog or blog post for this version. Learn more about N"
+      },
+      {
+        "title": "Node.js — Node.js Releases",
+        "date": "",
+        "url": "https://nodejs.org/zh-cn/about/previous-releases?spm=a2c6h.13046898.publish-article.19.21b26ffaSVG75z",
+        "passage": "Node.js — Node.js Releases Node.js。 Node.js 代号 First released Last updated Status v26 - 2026年5月05日 2026年10月21日 Current Details v25 - 2025年10月15日 2026年3月31日 EOL Details v24 Krypton 2025年5月06日 2026年10月20日 LTS Details v23 - 2024年10月16日 2025年5月14日 EOL Details v22 "
+      },
+      {
+        "title": "Node.js — Tuesday, March 24, 2026 Security Releases",
+        "date": "2026/03/24 00:00:00",
+        "url": "https://nodejs.org/en/blog/vulnerability/march-2026-security-releases?trk=article-ssr-frontend-pulse_little-text-block",
+        "passage": "Node.js — Tuesday, March 24, 2026 Security Releases Node.js。 Memory leak in Node.js HTTP/2 server via WINDOW_UPDATE on stream 0 leads to resource exhaustion (CVE-2026-21714) - (Medium) A memory leak occurs in Node.js HTTP/2 servers when a client sends WINDOW_U"
+      }
+    ]
+  },
+  {
+    "id": "py313",
+    "entity": "Python 3.13",
+    "cn": "Python 3.13",
+    "site": "python.org",
+    "query": "Python 3.13 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Download Python  Python.org",
+        "date": "",
+        "url": "https://python.org/downloads/",
+        "passage": "Download Python | Python.org Python。Download the latest version for Windows Download Python install manager Or get the standalone installer for Python 3.14.8 Looking for Python with a different OS? Python for Windows, Linux/Unix, macOS, Android, iOS, other Wan"
+      },
+      {
+        "title": "Python Releases for Windows",
+        "date": "",
+        "url": "https://python.org/downloads/windows/",
+        "passage": "Python Releases for Windows Python。 3, 2024 Note that Python 3.12.8 cannot be used on Windows 7 or earlier. Download Windows installer (64-bit) Download Windows installer (32-bit) Download Windows installer (ARM64) Download Windows embeddable package (64-bit) "
+      },
+      {
+        "title": "Download Python",
+        "date": "",
+        "url": "https://python.org/downloads?amp%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525253Butm_campaign=influ_salesplayers&q=business+development+representative",
+        "passage": "Download Python Python。Security notice: the emSign root CA has been removed from certifi. Upgrade certifi, pip, uv and sigstore now. See more Active Python releases Python version Maintenance status First released End of support Release schedule 3.16 pre-relea"
+      }
+    ]
+  },
+  {
+    "id": "py312",
+    "entity": "Python 3.12",
+    "cn": "Python 3.12",
+    "site": "python.org",
+    "query": "Python 3.12 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Download Python",
+        "date": "",
+        "url": "https://python.org/downloads?amp%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525253Butm_campaign=influ_salesplayers&q=business+development+representative",
+        "passage": "Download Python。 3, 2024 Download Release notes Python 3.13.0 Oct. 7, 2024 Download Release notes Python 3.12.16 Oct. 25, 2026 Download Release notes Python 3.12.15 Sept. 30, 2026 Download Release notes Python 3.12.14 Aug. 12, 2026 Download Release notes Pytho"
+      },
+      {
+        "title": "Download Python",
+        "date": "",
+        "url": "https://python.org/downloads?amp%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525253Butm_medium=social?_hsmi=277122294&q=implementation+specialist",
+        "passage": "Download Python Python。 3, 2024 Download Release notes Python 3.13.0 Oct. 7, 2024 Download Release notes Python 3.12.16 Oct. 25, 2026 Download Release notes Python 3.12.15 Sept. 30, 2026 Download Release notes Python 3.12.14 Aug. 12, 2026 Download Release note"
+      },
+      {
+        "title": "Python Release Python 3.12.15  Python.org",
+        "date": "",
+        "url": "https://python.org/downloads/release/python-31215",
+        "passage": "Python Release Python 3.12.15 | Python.org Python。Notice: This page displays a fallback because interactive scripts did not run. Possible causes include disabled JavaScript or failure to load scripts or stylesheets. Python is a programming language that lets y"
+      }
+    ]
+  },
+  {
+    "id": "net9",
+    "entity": ".NET 9",
+    "cn": ".NET 9",
+    "site": "dotnet.microsoft.com",
+    "query": ".NET 9 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "The official .NET support policy  .NET",
+        "date": "2026/10/25 00:00:00",
+        "url": "https://dotnet.microsoft.com/en-us/platform/support/policy?WT.mc_id=DT-MVP-5001507",
+        "passage": "The official .NET support policy | .NET .NET。.NET Support Policy Support policies for the various technologies that make up the .NET platform. .NET and .NET Core .NET and .NET Core refer to several technologies including the runtime, the SDK, ASP.NET Core, and"
+      },
+      {
+        "title": "官方 .NET 支持政策 .NET",
+        "date": "",
+        "url": "https://slashdot.org&language%3dfrench&trolls%3dyes@dotnet.microsoft.com/zh-cn/platform/support/policy",
+        "passage": "官方 .NET 支持政策| .NET .NET。.NET 支持策略 上次更新时间: 2026年10月25日 .NET 和 .NET Core .NET 和 .NET Core 指包括运行时、ASP.NET Core、Entity Framework Core 在内的多种技术。 支持的版本 下表跟踪 .NET 和 .NET Core 版本的发布和终止支持日期。 支持的版本 版本 原始发布日期 最新补丁版本 补丁发布日期 发布类型 支持阶段 终止支持 .NET 10 2025年11月11日 10.0.14 2026年1"
+      },
+      {
+        "title": "The official .NET support policy  .NET",
+        "date": "2026/10/13 00:00:00",
+        "url": "https://dotnet.microsoft.com/en-us/platform/support/policy",
+        "passage": "The official .NET support policy | .NET .NET。.NET Support Policy Support policies for the various technologies that make up the .NET platform. .NET and .NET Core .NET and .NET Core refer to several technologies including the runtime, the SDK, ASP.NET Core, and"
+      }
+    ]
+  },
+  {
+    "id": "net8",
+    "entity": ".NET 8",
+    "cn": ".NET 8",
+    "site": "dotnet.microsoft.com",
+    "query": ".NET 8 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": ".NET 支持策略",
+        "date": "2026/10/13 00:00:00",
+        "url": "https://dotnet.microsoft.com/zh-cn/platform/support/policy/",
+        "passage": ".NET 支持策略。.NET 支持策略 构成 .NET 平台的各种技术的支持策略。 .NET 和 .NET Core .NET 和 .NET Core 指包括运行时、ASP.NET Core、Entity Framework Core 在内的多种技术。 支持的版本 下表跟踪 .NET 和 .NET Core 版本的发布和终止支持日期。 支持的版本 版本 原始发布日期 最新补丁版本 补丁发布日期 发布类型 支持阶段 终止支持 .NET 10 2025年11月11日 10.0.13 2026年10月13日 LTS 活动"
+      },
+      {
+        "title": ".NET 支持策略",
+        "date": "2026/10/13 00:00:00",
+        "url": "https://dotnet.microsoft.com/zh-cn/platform/support/policy",
+        "passage": ".NET 支持策略 .NET。.NET 支持策略 构成 .NET 平台的各种技术的支持策略。 .NET 和 .NET Core .NET 和 .NET Core 指包括运行时、ASP.NET Core、Entity Framework Core 在内的多种技术。 支持的版本 下表跟踪 .NET 和 .NET Core 版本的发布和终止支持日期。 支持的版本 版本 原始发布日期 最新补丁版本 补丁发布日期 发布类型 支持阶段 终止支持 .NET 10 2025年11月11日 10.0.13 2026年10月13日 L"
+      },
+      {
+        "title": "官方 .NET 支持政策 .NET",
+        "date": "",
+        "url": "https://dotnet.microsoft.com/platform/support/policy/",
+        "passage": "官方 .NET 支持政策| .NET .NET。.NET 支持策略 上次更新时间: 2026年10月13日 .NET 和 .NET Core .NET 和 .NET Core 指包括运行时、ASP.NET Core、Entity Framework Core 在内的多种技术。 支持的版本 下表跟踪 .NET 和 .NET Core 版本的发布和终止支持日期。 支持的版本 版本 原始发布日期 最新补丁版本 补丁发布日期 发布类型 支持阶段 终止支持 .NET 10 2025年11月11日 10.0.13 2026年1"
+      }
+    ]
+  },
+  {
+    "id": "go123",
+    "entity": "Go 1.23",
+    "cn": "Go 1.23",
+    "site": "go.dev",
+    "query": "Go 1.23 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Release History",
+        "date": "",
+        "url": "https://go.dev/doc/devel/release?utm_campaign=let-go-reuse-the-connection&utm_medium=referral&utm_source=golangnugget.com",
+        "passage": "Release History Go。 go1.24.12 (released 2026-01-15) includes security fixes to the go command, and the archive/zip, crypto/tls, and net/url packages, as well as bug fixes to the compiler, the runtime, and the crypto/tls and os packages. See the Go 1.24.12 mile"
+      },
+      {
+        "title": "Release History",
+        "date": "",
+        "url": "https://go.dev/doc/devel/release",
+        "passage": "Release History Go。 Minor revisions ¶ go1.23.1 (released 2024-09-05) includes security fixes to the encoding/gob , go/build/constraint , and go/parser packages, as well as bug fixes to the compiler, the go command, the runtime, and the database/sql , go/types "
+      },
+      {
+        "title": "Release History",
+        "date": "",
+        "url": "https://go.dev/doc/devel/release?ref=nixsanctuary.com",
+        "passage": "Release History Go。 go1.24.7 (released 2025-09-03) includes fixes to the go command, and the net and os/exec packages. See the Go 1.24.7 milestone on our issue tracker for details. go1.24.8 (released 2025-10-07) includes security fixes to the archive/tar, cryp"
+      }
+    ]
+  },
+  {
+    "id": "go122",
+    "entity": "Go 1.22",
+    "cn": "Go 1.22",
+    "site": "go.dev",
+    "query": "Go 1.22 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Release History",
+        "date": "",
+        "url": "https://go.dev/doc/devel/release?ref=nixsanctuary.com",
+        "passage": "Release History Go。 go1.23.8 (released 2025-04-01) includes security fixes to the net/http package, as well as bug fixes to the runtime and the go command. See the Go 1.23.8 milestone on our issue tracker for details. go1.23.9 (released 2025-05-06) includes fi"
+      },
+      {
+        "title": "Release History",
+        "date": "",
+        "url": "https://go.dev/doc/devel/release?utm_campaign=let-go-reuse-the-connection&utm_medium=referral&utm_source=golangnugget.com",
+        "passage": "Release History Go。Release History Table of Contents Release Policy go1.27.0 (released 2026-08-19) Minor revisions go1.26.0 (released 2026-02-10) Minor revisions go1.25.0 (released 2025-08-12) Minor revisions go1.24.0 (released 2025-02-11) Minor revisions go1."
+      },
+      {
+        "title": "Blog Index",
+        "date": "",
+        "url": "https://go.dev/blog/all",
+        "passage": "Blog Index Go。 What's in an (Alias) Name?, 17 September 2024 Robert Griesemer A description of generic alias types, a planned feature for Go 1.24 Building LLM-powered applications in Go, 12 September 2024 Eli Bendersky LLM-powered applications in Go using Gemi"
+      }
+    ]
+  },
+  {
+    "id": "rust180",
+    "entity": "Rust 1.80",
+    "cn": "Rust 1.80",
+    "site": "blog.rust-lang.org",
+    "query": "Rust 1.80 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "The Rust Release Announcements",
+        "date": "",
+        "url": "https://blog.rust-lang.org/releases/",
+        "passage": "The Rust Release Announcements Rust Blog。Did you know? There are convenient redirects for the latest and specific release posts: • /releases/latest • /releases/1.85.0 Releases in 2026 Oct. 15 Announcing Rust 1.99.1 Oct. 1 Announcing Rust 1.99.0 Sept. 3 Announc"
+      },
+      {
+        "title": "Posts tagged \"release\"  Rust Blog",
+        "date": "",
+        "url": "https://blog.rust-lang.org/tags/release",
+        "passage": "Posts tagged \"release\" | Rust Blog Rust Blog。These are the Rust blog posts with the Release announcements tag. You can follow them with the feed or browse all tags. Posts in 2026 Oct. 15 Announcing Rust 1.99.1 Oct. 1 Announcing Rust 1.99.0 Sept. 3 Announcing R"
+      },
+      {
+        "title": "The Rust Programming Language Blog",
+        "date": "",
+        "url": "https://blog.rust-lang.org/?utm_source=upvote.link/",
+        "passage": "The Rust Programming Language Blog Rust Blog。 Jan. 5 Project goals update — December 2025 Posts in 2025 Dec. 19 What do people love about Rust? Dec. 16 Project goals update — November 2025 Dec. 11 Announcing Rust 1.92.0 Dec. 8 Making it easier to sponsor Rust "
+      }
+    ]
+  },
+  {
+    "id": "java21",
+    "entity": "Java 21",
+    "cn": "Java 21",
+    "site": "oracle.com",
+    "query": "Java 21 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Oracle Java SE Licensing FAQ",
+        "date": "2026/10/20 00:00:00",
+        "url": "https://oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html",
+        "passage": "Oracle Java SE Licensing FAQ Oracle。Oracle Java SE Licensing FAQ Note: In the event of a discrepancy between any part of this FAQ and the license under which you receive Oracle software, the latter shall be considered correct. This FAQ pertains to Oracle Java "
+      },
+      {
+        "title": "Oracle Java SE Universal Subscription",
+        "date": "2019/03/04 20:06:36",
+        "url": "https://oracle.com/technetwork/java/javaseproducts/index.html",
+        "passage": "Oracle Java SE Universal Subscription Oracle。Oracle Java SE Universal Subscription Java SE is foundational to enterprise and ISV workloads. With this subscription, you get Oracle JDK builds and ongoing updates backed by Oracle Support plus advanced features, t"
+      },
+      {
+        "title": "Oracle Accessibility Conformance Report",
+        "date": "",
+        "url": "https://oracle.com/anz/corporate/accessibility/templates/t2-14843.html",
+        "passage": "Oracle Accessibility Conformance Report Oracle。Oracle Accessibility Conformance Report VPAT® Version 2.3 - April 2019 Name of Product: Oracle Java Platform, Standard Edition, Development Kit (2024) 21 Product Description: Oracle's implementation of the Java St"
+      }
+    ]
+  },
+  {
+    "id": "spring34",
+    "entity": "Spring Boot 3.4",
+    "cn": "Spring Boot 3.4",
+    "site": "spring.io",
+    "query": "Spring Boot 3.4 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Author  Moritz Halbritter",
+        "date": "",
+        "url": "https://spring.io/team/mhalbritter",
+        "passage": "Author | Moritz Halbritter Spring。 Spring Boot Commercial releases are also available. How can you… Read more Spring Boot 4.0.3 available now Releases | February 19, 2026 | 0 Comments On behalf of the team and everyone who has contributed, I'm happy to announc"
+      },
+      {
+        "title": "This Week in Spring - April 29th, 2025",
+        "date": "2025/04/29 00:00:00",
+        "url": "https://spring.io/blog/2025/04/29/this-week-in-spring-april-29th-2025",
+        "passage": "This Week in Spring - April 29th, 2025 Spring。Hi, Spring fans! Welcome to another installment of This Week in Spring! It's 29 April 2025 and things are starting to kick into overdrive! Starting next week, I'll be doing: Devoxx UK CodeRemix Miami JForum #123 in"
+      },
+      {
+        "title": "Moritz Halbritter",
+        "date": "",
+        "url": "https://spring.io/authors/mhalbritter",
+        "passage": "Moritz Halbritter Spring。 If you're interested in helping out, check out the \"ideal for contribution\" tag in the issue repository. If you have general questions, please ask on stackoverflow.com using the spring-boot tag. Project Page | GitHub | Issues | Docume"
+      }
+    ]
+  },
+  {
+    "id": "pg17",
+    "entity": "PostgreSQL 17",
+    "cn": "PostgreSQL 17",
+    "site": "postgresql.org",
+    "query": "PostgreSQL 17 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Thursday Jan 16, 2025, Meeup: What's new in PostgreSQL 17",
+        "date": "2024/12/18 17:30:01",
+        "url": "https://postgresql.org/message-id/Z2MGmeqHdKYWPEGS%40ltdrgnflg2",
+        "passage": "Thursday Jan 16, 2025, Meeup: What's new in PostgreSQL 17 PostgreSQL。Thursday Jan 16, 2025, Meeup: What's new in PostgreSQL 17 From: Mark Wong Date: 2024-12-18 17:30:01 Thursday Jan 16, 2025 at 6:30pm-8:30pm What's new in PostgreSQL 17 Please RSVP in MeetUp to"
+      },
+      {
+        "title": "PostgreSQL: The world's most advanced open source database",
+        "date": "2026/05/29 16:15:15",
+        "url": "http://postgresql.org",
+        "passage": "PostgreSQL: The world's most advanced open source database PostgreSQL。PostgreSQL: The World's Most Advanced Open Source Relational Database New to PostgreSQL? PostgreSQL is a powerful, open source object-relational database system with over 35 years of active "
+      },
+      {
+        "title": "PostgreSQL",
+        "date": "2026/04/10 08:35:19",
+        "url": "http://17485-396609c6925b982d@postgresql.org",
+        "passage": "PostgreSQL。PostgreSQL: The World's Most Advanced Open Source Relational Database New to PostgreSQL? PostgreSQL is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reli"
+      }
+    ]
+  },
+  {
+    "id": "mysql84",
+    "entity": "MySQL 8.4",
+    "cn": "MySQL 8.4",
+    "site": "dev.mysql.com",
+    "query": "MySQL 8.4 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Which version of MySQL is production-ready (GA)?",
+        "date": "2024/04/30 00:00:00",
+        "url": "https://dev.mysql.com/doc/refman/8.0/en/faqs-general.html",
+        "passage": "Which version of MySQL is production-ready (GA)? MySQL Developer Zone。PDF (US Ltr) PDF (A4) A.1 MySQL 8.0 FAQ: General A.1.1. Which version of MySQL is production-ready (GA)? MySQL 9.6, 8.4, and 8.0 are actively supported for production use. The MySQL 9 Innova"
+      },
+      {
+        "title": "A.1 MySQL 26.10 FAQ: General",
+        "date": "",
+        "url": "https://dev.mysql.com/doc/refman/26.10/en/faqs-general.html",
+        "passage": "A.1 MySQL 26.10 FAQ: General MySQL Developer Zone。A.1 MySQL 26.10 FAQ: General A.1.1. Which version of MySQL is production-ready (GA)? A.1.2. Why did MySQL version numbering skip versions 6 and 7 and go straight to 8.0? A.1.3. Can MySQL do subqueries? A.1.4. C"
+      },
+      {
+        "title": "Which version of MySQL is production-ready (GA)?",
+        "date": "",
+        "url": "https://dev.mysql.com/doc/refman/9.7/en/faqs-general.html",
+        "passage": "Which version of MySQL is production-ready (GA)? MySQL Developer Zone。A.1.1. Which version of MySQL is production-ready (GA)? A.1.2. Why did MySQL version numbering skip versions 6 and 7 and go straight to 8.0? A.1.3. Can MySQL do subqueries? A.1.4. Can MySQL "
+      }
+    ]
+  },
+  {
+    "id": "k8s131",
+    "entity": "Kubernetes 1.31",
+    "cn": "Kubernetes 1.31",
+    "site": "kubernetes.io",
+    "query": "Kubernetes 1.31 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Kubernetes 1.31 : Elli",
+        "date": "",
+        "url": "https://kubernetes.io/es/releases/1.31",
+        "passage": "Kubernetes 1.31 Kubernetes。Este lanzamiento llegó al fin de su vida útil el 2025-11-11. Kubernetes 1.31 ya no recibe actualizaciones de seguridad ni correcciones de errores. Actualiza a una versión soportada. Kubernetes 1.31 : Elli Esta página proporciona una "
+      },
+      {
+        "title": "Kubernetes 1.31",
+        "date": "",
+        "url": "https://kubernetes.io/hi/releases/1.31",
+        "passage": "Kubernetes 1.31 Kubernetes。This release has reached End of Life on 2025-11-11. Kubernetes 1.31 is no longer receiving security updates or bug fixes. Upgrade to a supported version. This page provides an overview of the Kubernetes 1.31 release series. Release S"
+      },
+      {
+        "title": "Releases  Kubernetes",
+        "date": "",
+        "url": "https://mailto:steering@kubernetes.io/releases/_print",
+        "passage": "Releases | Kubernetes Kubernetes。 Minor Version Final Patch Release End Of Life Date Note 1.33 1.33.13 2026-06-28 1.32 1.32.13 2026-02-28 1.31 1.31.14 2025-11-11 1.30 1.30.14 2025-07-15 1.29 1.29.14 2025-02-28 1.28 1.28.15 2024-10-22 1.27 1.27.16 2024-07-16 1."
+      }
+    ]
+  },
+  {
+    "id": "redis8",
+    "entity": "Redis 8",
+    "cn": "Redis 8",
+    "site": "redis.io",
+    "query": "Redis 8 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Redis Software product lifecycle",
+        "date": "",
+        "url": "https://redis.io/docs/staging/DOC-7111-rdi-terraform-dashboards/operate/rs/8.0/installing-upgrading/product-lifecycle/",
+        "passage": "Redis Software product lifecycle Redis。 Version - Release date End of Life (EOL) 8.0 – October 2025 July 31, 2028 7.22 – May 2025 October 30, 2027 7.8 – November 2024 May 30, 2027 7.4 – February 2024 November 30, 2026 7.2 – August 2023 February 28, 2026 6.4 – "
+      },
+      {
+        "title": "Redis Software product lifecycle",
+        "date": "",
+        "url": "https://redis.io/docs/staging/maint-k8s/operate/rs/installing-upgrading/product-lifecycle",
+        "passage": "Redis Software product lifecycle Redis。Redis Software product lifecycle The product lifecycle of Redis Software cluster versions. Redis Software The Redis Software product lifecycle fully reflects the subscription agreement. However, for any discrepancy betwee"
+      },
+      {
+        "title": "Redis Software release notes 8.0.x",
+        "date": "2026/10/09 10:01:18",
+        "url": "https://redis.io/docs/latest/operate/rs/release-notes/rs-8-0-releases/",
+        "passage": "Redis Software release notes 8.0.x Redis。{\"categories\":[\"docs\",\"operate\",\"rs\"],\"description\":\"Redis Software 8! The most performant, most secure, and richest version so far. Built for performance, scale, and reliability to power modern ML and AI applications.\""
+      }
+    ]
+  },
+  {
+    "id": "mongo80",
+    "entity": "MongoDB 8.0",
+    "cn": "MongoDB 8.0",
+    "site": "mongodb.com",
+    "query": "MongoDB 8.0 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "MongoDB Announces General Availability of MongoDB 8.0",
+        "date": "",
+        "url": "https://mongodb.com/fr-fr/company/newsroom/press-releases/mongo-db-announces-general-availability-of-mongo-db-8-0",
+        "passage": "MongoDB Announces General Availability of MongoDB 8.0 MongoDB。Update to the world’s most popular document database is the most performant version of MongoDB ever released, with greater ease of use and enterprise-grade security, resilience, and availability for"
+      },
+      {
+        "title": "MongoDB’s 2024 Year in Review",
+        "date": "2024/12/19 00:00:00",
+        "url": "https://mongodb.com/de-de/company/blog/mongodbs-2024-year-in-review",
+        "passage": "MongoDB’s 2024 Year in Review MongoDB。Announcement: As of 9/26/2025, we are refocusing the MongoDB AI Applications Program (MAAP) to instead focus on fostering and developing strategic partnerships. Please visit the MongoDB Partner ecosystem page to learn how "
+      },
+      {
+        "title": "MongoDB 9.0.4 is released",
+        "date": "",
+        "url": "https://mongodb.com/community/forums/tag/server",
+        "passage": "MongoDB 9.0.4 is released MongoDB。server Topic Replies Views Activity MongoDB 9.0.4 is released Server Releases server , production 0 72 October 14, 2026 MongoDB 8.3.13 is released Server Releases server , production 0 29 October 14, 2026 MongoDB 8.0.34 is rel"
+      }
+    ]
+  },
+  {
+    "id": "es815",
+    "entity": "Elasticsearch 8.15",
+    "cn": "Elasticsearch 8.15",
+    "site": "elastic.co",
+    "query": "Elasticsearch 8.15 release date",
+    "n": 10,
+    "n_official": 10,
+    "top": [
+      {
+        "title": "Elastic 8.15: Enhanced semantic search and new SIEM data import",
+        "date": "2024/08/09 00:00:00",
+        "url": "https://microsoft@elastic.co/blog/whats-new-elastic-8-15-0",
+        "passage": "Elastic 8.15: Enhanced semantic search and new SIEM data import Elastic。Elastic 8.15: Better semantic search, new OTel distribution, SIEM data import Brian Bergholm Today, we are pleased to announce the general availability of Elastic 8.15. What’s new? The 8.1"
+      },
+      {
+        "title": "Beyond similar names: How Elasticsearch semantic text exceeds OpenSearch semantic field in simplicity, efficiency, and integration",
+        "date": "2025/08/12 00:00:00",
+        "url": "https://elastic.co/search-labs/blog/elasticsearch-semantic-text-vs-opensearch-semantic-field",
+        "passage": "Beyond similar names: How Elasticsearch semantic text exceeds OpenSearch semantic field in simplicity, efficiency, and integration Elastic。Beyond similar names: How Elasticsearch semantic text exceeds OpenSearch semantic field in simplicity, efficiency, and in"
+      },
+      {
+        "title": "Elastic Search 8.15: Accessible semantic search with semantic text and reranking",
+        "date": "2024/08/09 00:00:00",
+        "url": "https://elastic.co/blog/whats-new-elastic-search-8-15-0",
+        "passage": "Elastic Search 8.15: Accessible semantic search with semantic text and reranking Elastic。Elastic Search 8.15: Accessible semantic search with semantic text and reranking Nick ChowSunayana Vatassery In 8.15, great search results are even more accessible for our"
+      }
+    ]
+  }
+]

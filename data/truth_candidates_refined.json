@@ -1,0 +1,158 @@
+[
+  {
+    "id": "react19",
+    "entity": "React 19",
+    "cn": "React 19",
+    "site": "react.dev",
+    "query": "React 19 released",
+    "hit": {
+      "title": "React v19 – React",
+      "date": "",
+      "url": "https://react.dev/blog/2024/12/05/react-19?utm_content=buffer2649c&utm_source=twitter.com",
+      "passage": "React v19 – React React。React v19 December 05, 2024 by The React Team Note React 19 is now stable! Additions since this post was originally shared with the React 19 RC in April: Pre-warming for suspen"
+    }
+  },
+  {
+    "id": "react18",
+    "entity": "React 18",
+    "cn": "React 18",
+    "site": "react.dev",
+    "query": "React 18 released",
+    "hit": {
+      "title": "React v18.0 – React",
+      "date": "2022/03/29 00:00:00",
+      "url": "https://react.dev/blog/2022/03/29/react-v18?utm_campaign=This%20Week%20In%20React&utm_medium=email&utm_source=Revue%20newsletter",
+      "passage": "React v18.0 – React React。React v18.0 React 18 is now available on npm! In our last post, we shared step-by-step instructions for upgrading your app to React 18. In this post, we’ll give an overview o"
+    }
+  },
+  {
+    "id": "tw4",
+    "entity": "Tailwind CSS 4.0",
+    "cn": "Tailwind CSS 4.0",
+    "site": "tailwindcss.com",
+    "query": "Tailwind CSS 4.0 released",
+    "hit": {
+      "title": "Compatibility",
+      "date": "",
+      "url": "https://tailwindcss.com/docs/compatibility/",
+      "passage": "Compatibility Tailwind CSS。Compatibility Learn about browser support and compatibility with other tooling. Browser support Tailwind CSS v4.0 is designed for and tested on modern browsers, and the core"
+    }
+  },
+  {
+    "id": "next15",
+    "entity": "Next.js 15",
+    "cn": "Next.js 15",
+    "site": "nextjs.org",
+    "query": "Next.js 15 released",
+    "hit": {
+      "title": "Next.js Support Policy  Next.js by Vercel - The React Framework",
+      "date": "",
+      "url": "https://nextjs.org/support-policy?utm_source=syedmoinuddin.com",
+      "passage": "Next.js Support Policy | Next.js by Vercel - The React Framework Next.js。Support Policy Next.js publishes new versions to the canary channel daily. These pre-release builds undergo extensive internal "
+    }
+  },
+  {
+    "id": "nuxt3",
+    "entity": "Nuxt 3",
+    "cn": "Nuxt 3",
+    "site": "nuxt.com",
+    "query": "Nuxt 3 released",
+    "hit": {
+      "title": "Nuxt UI v3",
+      "date": "2025/03/12 00:00:00",
+      "url": "https://nuxt.com/blog/nuxt-ui-v3?utm_source=devfeed",
+      "passage": "Nuxt UI v3 Nuxt。Nuxt UI v3 Nuxt UI v3 is out! After 1500+ commits, this major redesign brings improved accessibility, Tailwind CSS v4 support, and full Vue compatibility We are thrilled to announce th"
+    }
+  },
+  {
+    "id": "py313",
+    "entity": "Python 3.13",
+    "cn": "Python 3.13",
+    "site": "python.org",
+    "query": "Python 3.13 released",
+    "hit": {
+      "title": "Download Python",
+      "date": "",
+      "url": "https://python.org/downloads?amp%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525253Butm_campaign=influ_salesplayers&q=business+development+representative",
+      "passage": "Download Python。Security notice: the emSign root CA has been removed from certifi. Upgrade certifi, pip, uv and sigstore now. See more Active Python releases Python version Maintenance status First re"
+    }
+  },
+  {
+    "id": "net9",
+    "entity": ".NET 9",
+    "cn": ".NET 9",
+    "site": "dotnet.microsoft.com",
+    "query": ".NET 9 released",
+    "hit": {
+      "title": ".NET 支持策略",
+      "date": "2026/10/13 00:00:00",
+      "url": "https://dotnet.microsoft.com/zh-cn/platform/support/policy/",
+      "passage": ".NET 支持策略。.NET 支持策略 构成 .NET 平台的各种技术的支持策略。 .NET 和 .NET Core .NET 和 .NET Core 指包括运行时、ASP.NET Core、Entity Framework Core 在内的多种技术。 支持的版本 下表跟踪 .NET 和 .NET Core 版本的发布和终止支持日期。 支持的版本 版本 原始发布日期 最新补丁版本 补丁发布日期 发"
+    }
+  },
+  {
+    "id": "java21",
+    "entity": "Java 21",
+    "cn": "Java 21",
+    "site": "oracle.com",
+    "query": "Java 21 released",
+    "hit": {
+      "title": "Oracle Java SE Universal Subscription",
+      "date": "",
+      "url": "https://oracle.com/java/technologies/javase-subscription-overview.html",
+      "passage": "Oracle Java SE Universal Subscription Oracle。Oracle Java SE Universal Subscription Oracle Java SE Universal Subscription Java SE is foundational to enterprise and ISV workloads. With this subscription"
+    }
+  },
+  {
+    "id": "pg17",
+    "entity": "PostgreSQL 17",
+    "cn": "PostgreSQL 17",
+    "site": "postgresql.org",
+    "query": "PostgreSQL 17 released",
+    "hit": {
+      "title": "Release Notes",
+      "date": "",
+      "url": "https://postgresql.org/docs/release/",
+      "passage": "Release Notes PostgreSQL。 PostgreSQL 18 18.6 18.4 18.3 18.2 18.1 18.0 PostgreSQL 17 17.11 17.10 17.9 17.8 17.7 17.6 17.5 17.4 17.3 17.2 17.1 17.0 PostgreSQL 16 16.15 16.14 16.13 16.12 16.11 16.10 16.9"
+    }
+  },
+  {
+    "id": "mysql84",
+    "entity": "MySQL 8.4",
+    "cn": "MySQL 8.4",
+    "site": "dev.mysql.com",
+    "query": "MySQL 8.4 released",
+    "hit": {
+      "title": "Which version of MySQL is production-ready (GA)?",
+      "date": "2024/04/30 00:00:00",
+      "url": "https://dev.mysql.com/doc/refman/8.0/en/faqs-general.html",
+      "passage": "Which version of MySQL is production-ready (GA)? MySQL Developer Zone。PDF (US Ltr) PDF (A4) A.1 MySQL 8.0 FAQ: General A.1.1. Which version of MySQL is production-ready (GA)? MySQL 9.6, 8.4, and 8.0 a"
+    }
+  },
+  {
+    "id": "k8s131",
+    "entity": "Kubernetes 1.31",
+    "cn": "Kubernetes 1.31",
+    "site": "kubernetes.io",
+    "query": "Kubernetes 1.31 released",
+    "hit": {
+      "title": "Kubernetes v1.31: Elli",
+      "date": "2024/08/13 08:00:00",
+      "url": "https://kubernetes.io/blog/2024/08/13/kubernetes-v1-31-release?trk=article-ssr-frontend-pulse_little-text-block",
+      "passage": "Kubernetes v1.31: Elli Kubernetes。This article is more than one year old. Older articles may contain outdated content. Check that the information in the page has not become incorrect since its publica"
+    }
+  },
+  {
+    "id": "redis8",
+    "entity": "Redis 8",
+    "cn": "Redis 8",
+    "site": "redis.io",
+    "query": "Redis 8 released",
+    "hit": {
+      "title": "Redis 8 is now GA, loaded with new features and more than 30 performance improvements",
+      "date": "2025/05/01 00:00:00",
+      "url": "https://redis.io/blog/redis-8-ga?ref=revisit.tech",
+      "passage": "Redis 8 is now GA, loaded with new features and more than 30 performance improvements Redis。Redis 8 is now GA, loaded with new features and more than 30 performance improvements Pieter Cailliau Lior K"
+    }
+  }
+]
