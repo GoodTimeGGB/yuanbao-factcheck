@@ -225,7 +225,7 @@ def check_secrets() -> None:
     hits = []
     skip = {".git", "__pycache__", ".venv", "venv", "node_modules"}
     for p in ROOT.rglob("*"):
-        if not p.is_file() or p.name == ".env" or set(p.parts) & skip:
+        if not p.is_file() or p.name in {".env", ".env.example"} or set(p.parts) & skip:
             continue
         if p.suffix.lower() in {".png", ".jpg", ".pyc", ".zip"}:
             continue
