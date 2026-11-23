@@ -11,7 +11,7 @@
     C2 A/B 对照      准确率、误报率（假判真）、漏报率、无证据占比
     C3 四格对照      33% / 75% / 92%
     C4 配图          10 张齐全、图号 1–10 连续、哈希与锁文件一致
-    C5 正文硬性项    字数 ≥1500、标题前缀、图号引用连续
+    C5 正文硬性项    字数 ≥1500、标题含元宝搜索、图号引用连续
     C6 密钥扫描      除 .env 外不得出现 AK/SK
 
 设计原则：只读。除了 --lock 会写 data/fig_md5.json，其余任何文件都不动。
@@ -177,10 +177,10 @@ def check_figs() -> None:
 
 # ───────────────────────── C5 正文 ─────────────────────────
 def check_article() -> None:
-    head("C5  正文硬性项  文章正文-*.md")
-    cands = sorted(ROOT.glob("文章正文-*.md"))
+    head("C5  正文硬性项  文章-CSDN终稿.md")
+    cands = sorted(ROOT.glob("文章-CSDN终稿.md"))
     if not cands:
-        ok("正文存在", False, "没找到 文章正文-*.md")
+        ok("正文存在", False, "没找到 文章-CSDN终稿.md")
         return
     art = cands[-1]
     text = art.read_text(encoding="utf-8")
@@ -203,7 +203,7 @@ def check_article() -> None:
     ok("正文 ≥ 1500 字", words >= 1500, "%d 字，%.1f 倍" % (words, words / 1500))
 
     first = lines[0].strip()
-    ok("标题前缀正确", first.startswith("# 【元宝搜索开发者征文大赛】"), first[:24] + "…")
+    ok("标题包含元宝搜索", first.startswith("# 数字是填空") and "元宝搜索" in first, first[:24] + "…")
 
     figs_in_text = [int(x) for x in re.findall(r"^\*?图\s*(\d+)｜", text, re.M)]
     ok("图注编号 1–10 连续", figs_in_text == list(range(1, 11)), str(figs_in_text))
